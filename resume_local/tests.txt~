@@ -1,0 +1,25 @@
+	Доменная и именная части разделены символом "@".
+	Доменная часть является набором строк разделенных точкой.
+
+	Размер именной части не меньше 1 символа.
+	Размер доменной - не меньше 3 символов
+	>>> email_check('a@m.m')
+	'a@m.m'
+	>>> email_check('01mail_na-me@mail.com.com')
+	'01mail_na-me@mail.com.com'
+
+	В именной части могут содержаться цифры, буквы и символы
+	>>> email_check('01mailna-me@mail.com')
+	'01mailna-me@mail.com'
+
+	Кавычки могут быть только парными
+	>>> email_check('01mail""na-me@mail.com')
+	'01mail""na-me@mail.com'
+
+	Символы "!,:" в именной части могут быть толкьо в кавычках
+	>>> email_check('01mail"!,:"na-me@mail.com')
+	'01mail"!,:"na-me@mail.com'
+
+	В именной части точки не могут идти друг за другом
+	>>> email_check('01mail.na-me@mail.com')
+	'01mail.na-me@mail.com'
