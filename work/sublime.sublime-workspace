@@ -1,0 +1,1477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"film"
+			],
+			[
+				"find",
+				"findAll"
+			],
+			[
+				"Okin",
+				"OkinoUaFilms"
+			],
+			[
+				"ye",
+				"year"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"stri",
+				"string"
+			],
+			[
+				"fi",
+				"films"
+			],
+			[
+				"d",
+				"details"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"fin",
+				"findAll"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"add",
+				"addr"
+			],
+			[
+				"int",
+				"int_id"
+			],
+			[
+				"in",
+				"int_id"
+			],
+			[
+				"ta",
+				"take_id"
+			],
+			[
+				"time",
+				"time_start"
+			],
+			[
+				"cit",
+				"city_name"
+			],
+			[
+				"city",
+				"city__id"
+			],
+			[
+				"name",
+				"name_slug"
+			],
+			[
+				"ci",
+				"city_id"
+			],
+			[
+				"oki",
+				"okinoua_cities"
+			],
+			[
+				"tak",
+				"take_id"
+			],
+			[
+				"tim",
+				"timer"
+			],
+			[
+				"from",
+				"from"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"de",
+				"def	Function"
+			],
+			[
+				"s",
+				"spam"
+			],
+			[
+				"c",
+				"calls"
+			],
+			[
+				"fro",
+				"from"
+			],
+			[
+				"w",
+				"wrapper"
+			],
+			[
+				"city_",
+				"city_name"
+			],
+			[
+				"def",
+				"defaults"
+			],
+			[
+				"j",
+				"joinliststr"
+			],
+			[
+				"l",
+				"liststr"
+			],
+			[
+				"list",
+				"listnum"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"ad",
+				"addr"
+			],
+			[
+				"get",
+				"getcode"
+			],
+			[
+				"url",
+				"urllib"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"con",
+				"cont"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"fe",
+				"feed"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"ma",
+				"main"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"e",
+				"entry"
+			],
+			[
+				"yt",
+				"yt_service"
+			],
+			[
+				"tr",
+				"trailers"
+			],
+			[
+				"file",
+				"file"
+			],
+			[
+				"date",
+				"date_now"
+			],
+			[
+				"da",
+				"date_now"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"bo",
+				"bodyTag"
+			],
+			[
+				"desc",
+				"descript_film"
+			],
+			[
+				"des",
+				"descript_film"
+			],
+			[
+				"descrip",
+				"descript_film"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"le",
+				"length_descript"
+			],
+			[
+				"local",
+				"locale"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"kn",
+				"kinoinfo"
+			],
+			[
+				"use",
+				"user_country"
+			],
+			[
+				"bas",
+				"base_advert_brand_piclink"
+			],
+			[
+				"kino",
+				"kinoafisha"
+			],
+			[
+				"ki",
+				"kinoafisha"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"pre",
+				"prev_img"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"ur",
+				"url_img"
+			],
+			[
+				"im",
+				"img_file"
+			],
+			[
+				"create",
+				"created"
+			],
+			[
+				"url_",
+				"url_src"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"count",
+				"country"
+			],
+			[
+				"id",
+				"id_country"
+			],
+			[
+				"user",
+				"user_country"
+			],
+			[
+				"htt",
+				"http"
+			],
+			[
+				"back",
+				"Background"
+			],
+			[
+				"Me",
+				"MEDIA_URL"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"p",
+				"Provide"
+			],
+			[
+				"S",
+				"Super"
+			],
+			[
+				"su",
+				"Super"
+			],
+			[
+				"A",
+				"AttrDisplay"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"g",
+				"gatherAttrs"
+			],
+			[
+				"per",
+				"person"
+			],
+			[
+				"pa",
+				"pay"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"sq",
+				"sqrt"
+			],
+			[
+				"test",
+				"tester"
+			],
+			[
+				"gen",
+				"genFunc"
+			],
+			[
+				"lis",
+				"listComp"
+			],
+			[
+				"for",
+				"forLoop"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ge",
+				"genFunc"
+			],
+			[
+				"_",
+				"_resp"
+			],
+			[
+				"dc",
+				"dct1"
+			],
+			[
+				"ke",
+				"key2"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
+				"M",
+				"Model"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"Po",
+				"POST"
+			],
+			[
+				"not",
+				"not_found"
+			],
+			[
+				"no",
+				"not_found"
+			],
+			[
+				"coun",
+				"Country"
+			],
+			[
+				"cou",
+				"Country"
+			],
+			[
+				"pos",
+				"post_id"
+			],
+			[
+				"commen",
+				"Comment"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/models.py",
+			"settings":
+			{
+				"buffer_size": 31104,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "parser.py",
+			"settings":
+			{
+				"buffer_size": 5694,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/okinoua.py",
+			"settings":
+			{
+				"buffer_size": 24116,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/rambler.py",
+			"settings":
+			{
+				"buffer_size": 30369,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/views.py",
+			"settings":
+			{
+				"buffer_size": 101661,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/cron_okinoua.py",
+			"settings":
+			{
+				"buffer_size": 419,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/kinohod.py",
+			"settings":
+			{
+				"buffer_size": 38373,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/urls.py",
+			"settings":
+			{
+				"buffer_size": 14851,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/decors.py",
+			"settings":
+			{
+				"buffer_size": 404,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_okinoua_nof_cinema.xml",
+			"settings":
+			{
+				"buffer_size": 5636,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_kinohod_nof_cinema.xml",
+			"settings":
+			{
+				"buffer_size": 1181,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/admin_city_cinema_hall_nof_list2.html",
+			"settings":
+			{
+				"buffer_size": 1586,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/objects_info.html",
+			"settings":
+			{
+				"buffer_size": 1987,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/api_import_info.html",
+			"settings":
+			{
+				"buffer_size": 1563,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/kinoinfo_import_info.html",
+			"settings":
+			{
+				"buffer_size": 3045,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/templatetags/base_tags.py",
+			"settings":
+			{
+				"buffer_size": 3862,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_okinoua_nof_films.xml",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/func.py",
+		"/home/ba4riman/sources/sublime/films.xml",
+		"/home/ba4riman/sources/sublime/parser.py",
+		"/tmp/fz3temp-1/okinoua.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_okino.ua.schedules.xml",
+		"/tmp/fz3temp-1/rambler.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/kinohod.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/kinoafisha_admin.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/schedules.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/views.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/cron_okinoua.py",
+		"/tmp/fz3temp-1/urls.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_planeta_nof_cinema.xml",
+		"/tmp/fz3temp-1/settings.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/settings.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/kinoafisha_import_info.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/admin_city_cinema_hall_nof_list.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/kinoinfo_folder/func.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_cmc_nof_cinema.xml",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/city_names_relations.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/schedule_menu.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/schedule_main.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_okinoua_nof_city.xml",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_okinoua_nof_cinemas.xml",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/city_nof_list.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/admin_distributor_nof_list2.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/admin_city_cinema_hall_nof_list2.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/distributor_nof_list.html",
+		"/home/ba4riman/Рабочий стол/[13:12:57] Юрий: city_id ты получаешь от источника",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/decors.py",
+		"/home/ba4riman/sources/sublime/decor.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_okino.ua.cinemas.xml",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/urls.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/kinofilms.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/megamag.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/nowru.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/planeta_kino.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/okinoua.py.orig",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_okinoua_nof_cinema.xml",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/settings_kinoinfo.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_okino.ua.links.xml",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/models.py",
+		"/home/ba4riman/sources/sublime/test.py",
+		"/home/ba4riman/resume/email_check.py",
+		"/home/ba4riman/sources/sublime/cinemas.xml",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/okinoua.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/rambler.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/urls.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/models.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/cron.py",
+		"/home/ba4riman/sources/sublime/utest.py",
+		"/home/ba4riman/sources/sublime/parse.xml",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/models.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/identify.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/trailers/views.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/trailers/trailers.html",
+		"/home/ba4riman/sources/kinohire/kinohire/kinohire/settings.py",
+		"/home/ba4riman/sources/troloskirmish/troloskirmish/main/urls.py",
+		"/home/ba4riman/sources/troloskirmish/troloskirmish/main/views.py",
+		"/home/ba4riman/sources/troloskirmish/troloskirmish/troloskirmish/static/css/style.css",
+		"/home/ba4riman/sources/troloskirmish/troloskirmish/templates/index.html",
+		"/home/ba4riman/sources/troloskirmish/troloskirmish/troloskirmish/urls.py",
+		"/home/ba4riman/sources/troloskirmish/troloskirmish/troloskirmish/settings.py",
+		"/home/ba4riman/sources/kinohire/kinohire/kinohire/urls.py",
+		"/home/ba4riman/sources/troloskirmish/troloskirmish/static/css/style.css",
+		"/home/ba4riman/sources/kinohire/kinohire/templates/index.html",
+		"/home/ba4riman/sources/kinohire/kinohire/templates/comments.html",
+		"/home/ba4riman/sources/kinohire/kinohire/cinema/views.py",
+		"/home/ba4riman/sources/kinohire/kinohire/cinema/urls.py",
+		"/home/ba4riman/sources/troloskirmish/troloskirmish/troloskirmish/templates/index.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/base.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/test.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/trailers/urls.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/urls_kinoafisha_ua.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/slideblock/blocks_main.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/slideblok/views.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/slideblok/urls.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/static/base/css/style.css",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/settings_kinoafisha_ua.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/urls.py",
+		"/home/ba4riman/sources/kinoinfo/work_test/dump_okino.ua.cinemas.xml",
+		"/home/ba4riman/sources/sublime/parse_html.txt",
+		"/home/ba4riman/sources/sublime/test.json",
+		"/home/ba4riman/film_list_form_ajax.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/static/base/js/script.js",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/views.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/film_list_form_ajax.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/cmc_schedules_list_ajax.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/slideblok/create_json.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/kinoafisha_release_update.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/ajax.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templatetags/base_tags.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/user_registration/views.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/city_dir.xml",
+		"/home/ba4riman/sources/kinohire/kinohire/cinema/admin.py",
+		"/home/ba4riman/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/ba4riman/sources/sublime/sublime.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/feedback/views.py",
+		"/tmp/fz3temp-1/settings_kinoinfo.py",
+		"/tmp/fz3temp-1/settings_kinoafisha_ua.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/kinoafisha/models.py",
+		"/home/ba4riman/sources/kinohire/kinohire/cinema/user_register.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/feedback/kinoafisha_ua_feedback.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/static/base/js/jquery.js",
+		"/tmp/fz3temp-1/views.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/user/user_auth_info.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/footer/liveinternet_counter.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/urls.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/views.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/base_homepage.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/user_registration/urls.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/local_settings.py",
+		"/tmp/fz3temp-1/style.css",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/cmc_schedules_list.html",
+		"/home/ba4riman/sources/kinohire/kinohire/cinema/models.py",
+		"/home/ba4riman/sources/kinohire/kinohire/cinema/templatetags/extends.py",
+		"/home/ba4riman/sources/kinohire/kinohire/templates/post.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/api/panel.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/feedback/urls.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/feedback/feedback.html",
+		"/tmp/fz3temp-1/base_tags.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/user/accounts_merger.html",
+		"/tmp/fz3temp-1/urls_kinoafisha_ua.py",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/user/base_advert_brand_piclink.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/user/base_advert_brand_img.html",
+		"/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/api/api_panel.html",
+		"/tmp/fz3temp-2/urls_kinoafisha_ua.py"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"okino",
+			"film_identification",
+			"city",
+			"cinema",
+			"t1",
+			"start_time",
+			"okinoua",
+			"schedul",
+			"rambler",
+			"okino",
+			"get_okinoua_cities",
+			"cron_success",
+			"log",
+			"kinohod_cities",
+			"log",
+			"kinohod_cities",
+			"log",
+			"cron_log",
+			"cron_log(",
+			"def cron_log",
+			"cron_log",
+			"kinoinfo",
+			"admin_idetification_status",
+			"admin_idetification_info",
+			"admin_idetification_status",
+			"edit_source_cinemas_relations",
+			"del_separator",
+			"admin_city_nof_list",
+			"admin_city_cinema_hall_nof_list2",
+			"admin_city_nof_list",
+			"admin_city_nof_list(",
+			"time_start",
+			"start_time",
+			"admin_city_nof_list",
+			"object_list",
+			"pagi",
+			"def pagi",
+			"objects_info.html",
+			"object_list",
+			"city_nof_list",
+			"schedule_main",
+			"film",
+			"identifica",
+			"opener",
+			"give_me_cookie",
+			"cron_success",
+			"nof",
+			"sleep",
+			"class cine",
+			"calss ci",
+			"only_superuser",
+			"create_dump_file",
+			"city_name",
+			"def get",
+			"City",
+			"class City",
+			"city",
+			"class c",
+			"class ci",
+			"city",
+			"class city",
+			"address",
+			"Cinema.ob",
+			"Cinema.",
+			"Cinema",
+			"RAMBLER_API_KEY",
+			"method()",
+			"create",
+			"film_id",
+			"Ramblercine",
+			"schedule",
+			"film_ide",
+			"fiml_i",
+			"film_ide",
+			"cookielib",
+			"href",
+			"ide",
+			"ResultSet",
+			"cinema_identification",
+			"cinema",
+			"okino",
+			"data_nof_cinema",
+			"sublime text 2",
+			"okinoua",
+			"cron_data_new",
+			"select_re",
+			"cinema_ide",
+			"relat",
+			"cinema_ide",
+			"cinema_",
+			"cinema",
+			"cinema_ide",
+			"kinohod_city",
+			"give_me_cookie",
+			"cinema",
+			"dump_rambler_cinema",
+			"objectid",
+			"cinema_ide",
+			"u'",
+			"cinema_identification",
+			"identi",
+			"def cinema",
+			"cinema_ide",
+			"cinema_id",
+			"cinema_",
+			"okinoua",
+			"del_screen_type",
+			"film_identification",
+			"film_obj",
+			"rambler",
+			"film_identification",
+			"film_ident",
+			"Okinoua",
+			"latitude",
+			"Ram",
+			"okino",
+			"Beautiful",
+			"BeautifulSoup",
+			"okino",
+			"rambler_schedules",
+			"rambler_schedules_list",
+			"Киев",
+			"API_EX",
+			"API_D",
+			"cron",
+			"API_",
+			"API_DUMP_PATH",
+			"write"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/models.py",
+					"settings":
+					{
+						"buffer_size": 31104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18220,
+								18220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5078.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "parser.py",
+					"settings":
+					{
+						"buffer_size": 5694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5181,
+								5181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1845.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/okinoua.py",
+					"settings":
+					{
+						"buffer_size": 24116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16288,
+								16288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5766.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/rambler.py",
+					"settings":
+					{
+						"buffer_size": 30369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6701,
+								6701
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2558.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/views.py",
+					"settings":
+					{
+						"buffer_size": 101661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33209,
+								33209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/cron_okinoua.py",
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/kinohod.py",
+					"settings":
+					{
+						"buffer_size": 38373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3709,
+								3709
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 188.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/urls.py",
+					"settings":
+					{
+						"buffer_size": 14851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13424,
+								13424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2603.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/release_parser/decors.py",
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_okinoua_nof_cinema.xml",
+					"settings":
+					{
+						"buffer_size": 5636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/api/examples/dump/dump_kinohod_nof_cinema.xml",
+					"settings":
+					{
+						"buffer_size": 1181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1181,
+								1181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/admin_city_cinema_hall_nof_list2.html",
+					"settings":
+					{
+						"buffer_size": 1586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1509,
+								1509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/objects_info.html",
+					"settings":
+					{
+						"buffer_size": 1987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/api_import_info.html",
+					"settings":
+					{
+						"buffer_size": 1563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/templates/release_parser/kinoinfo_import_info.html",
+					"settings":
+					{
+						"buffer_size": 3045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1659,
+								1659
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/home/ba4riman/sources/kinoinfo/kinoinfo/base/templatetags/base_tags.py",
+					"settings":
+					{
+						"buffer_size": 3862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/ba4riman/sources/sublime/sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,109 @@
+<data value="Кинотеатры Киева"><name id="348">Boomer</name>
+<addres>ул. Лаврухина, 4	</addres>
+<name id="163">IMAX</name>
+<addres>Московский проспект 34-в</addres>
+<name id="127">Алмаз</name>
+<addres>ул. Миропольская,19-а</addres>
+<name id="349">Автокино</name>
+<addres>пр. Броварской, 15</addres>
+<name id="214">Атмосфера</name>
+<addres>ул. Большая Васильковская, 57/3</addres>
+<name id="164">Мегаплекс в ТРК Блокбастер</name>
+<addres>Московский проспект 34-в</addres>
+<name id="197">Баттерфляй Кантри</name>
+<addres>Новообуховское шоссе 1, д.16 (7-й километр Новообуховского шоссе, с. Ходосовка)</addres>
+<name id="168">Баттерфляй Большевик</name>
+<addres>ул. Вадима Гетьмана, 6</addres>
+<name id="124">Баттерфляй Ультрамарин</name>
+<addres>ул. Урицкого, 1-а</addres>
+<name id="123">Баттерфляй DeLuxe</name>
+<addres>ул. Горького 50</addres>
+<name id="128">Братислава</name>
+<addres>ул. Мате Залки, 5</addres>
+<name id="132">Жовтень</name>
+<addres>ул. Константиновская, 26</addres>
+<name id="199">Кронверк</name>
+<addres>пр. Генерала Ватутина 2-т, в ТРЦ «Sky Mall»</addres>
+<name id="126">Киевская Русь</name>
+<addres>ул. Артема, 93</addres>
+<name id="121">Киев</name>
+<addres>ул. Красноармейская, 19</addres>
+<name id="139">Кинопалац</name>
+<addres>ул. Институтская 1</addres>
+<name id="161">Мультиплекс в ТРЦ Комод</name>
+<addres>ул. Луначарского, 4-а</addres>
+<name id="140">Кинопанорама</name>
+<addres>ул. Шота Руставели, 19 </addres>
+<name id="137">Кинодром</name>
+<addres>пр. Воздухофлотский, 2, територия спорткомплекса ЦСКА</addres>
+<name id="136">Кадр</name>
+<addres>ул. Вышгородская, 4</addres>
+<name id="143">Линия кино ТЦ Аладдин</name>
+<addres>ул. Гришко, 5</addres>
+<name id="144">Линия кино ТЦ Магелан</name>
+<addres>ул. А.Глушкова, 13-Б</addres>
+<name id="145">Линия кино ТЦ Метрополис</name>
+<addres>ул. Малиновского, 12</addres>
+<name id="141">Лейпциг</name>
+<addres>пр. 50-летия Октября, 8</addres>
+<name id="142">Ленинград</name>
+<addres>пр. Гагарина, 7</addres>
+<name id="198">Магнат</name>
+<addres>ул. Ирпенская, 7-6 (ТЦ Беличанский)</addres>
+<name id="167">Оскар</name>
+<addres>Оболонський проспект, 1-б, ТЦ «Дрим Таун»</addres>
+<name id="165">Одесса-кино в ТЦ Квадрат</name>
+<addres>б-р. Перова, 36</addres>
+<name id="148">Одесса-кино в ТЦ Караван</name>
+<addres>ул. Луговая, 12</addres>
+<name id="147">Одесса-кино в ТЦ Украина</name>
+<addres>пр. Победы, 3</addres>
+<name id="151">Проминь</name>
+<addres>Харьковское шоссе, 168 Ж</addres>
+<name id="152">Россия</name>
+<addres>ул. Милютенка, 19</addres>
+<name id="154">Спутник</name>
+<addres>Искровская, 18</addres>
+<name id="155">Старт</name>
+<addres>ул. Серафимовича, 15</addres>
+<name id="153">Салют</name>
+<addres>ул. Большая Китаевская, 83</addres>
+<name id="215">Синема-Сити</name>
+<addres>ул. Горького, 176</addres>
+<name id="157">Украина</name>
+<addres>ул. Городецкого, 5</addres>
+<name id="159">Флоренция</name>
+<addres>пр. Маяковского, 31</addres>
+<name id="158">Факел</name>
+<addres>пр.Бажана, 3</addres>
+<name id="134">им. Чапаева</name>
+<addres>ул. Большая Житомирская, 40</addres>
+<name id="135">им. Шевченко</name>
+<addres>ул. Вышгородская, 49</addres>
+<name id="122">Баттерфляй на Петровке</name>
+<addres>просп. Красных Казаков, 6</addres>
+<name id="129">Дом КИНО</name>
+<addres>ул. Саксаганского, 6</addres>
+<name id="130">Дружба</name>
+<addres>ул. Крещатик, 25</addres>
+<name id="131">Ереван</name>
+<addres>Чоколовский бульвар, 13</addres>
+<name id="125">Зоряный</name>
+<addres>ул. Московська 31/33</addres>
+<name id="133">Загреб</name>
+<addres>пр. 40-летия Октября, 116</addres>
+<name id="138">Кинозал Киевоблкино</name>
+<addres>ул. Васильковская, 3</addres>
+<name id="146">Нивки</name>
+<addres>ул. Щербакова, 58</addres>
+<name id="149">Орбита</name>
+<addres>ул. Крещатик, 29</addres>
+<name id="150">Пролисок</name>
+<addres>Квитневый пер., 4</addres>
+<name id="166">Пластилиновая ворона</name>
+<addres>ул. Челябинская,  15-а</addres>
+<name id="156">Тампере</name>
+<addres>ул. Героев Севастополя, 42</addres>
+<name id="160">Экран</name>
+<addres>пр-т. Победы, 117</addres>
+</data>

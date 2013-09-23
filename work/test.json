@@ -1,0 +1,12 @@
+{
+	"firstName": "Илья",
+	"lastName": "Земляков",
+	"address": {
+		"streetAddress": "ул. Свердлова 85, кв. 20",
+		"city": "Ялта",
+		"postalCode": 80600, 
+	},
+	"phoneNumbers": [
+		"0671551192", "378552"
+	]
+}
