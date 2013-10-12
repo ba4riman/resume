@@ -1,3651 +1,903 @@
 <data>
-<date value="2013-09-23">
-<film>
-<cinema>Kronverk Cinema Skymall</cinema>
-<name id="456989" value="Ломбард">
-	<time>10:10</time>
-	<time>11:10</time>
-	<time>13:10</time>
-	<time>14:20</time>
-	<time>15:20</time>
-	<time>17:20</time>
-	<time>18:20</time>
-	<time>19:20</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>10:40</time>
-	<time>12:35</time>
-	<time>14:30</time>
-	<time>16:25</time>
-	<time>18:20</time>
-	<time>20:20</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>16:15</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>10:20</time>
-	<time>12:10</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>10:30</time>
-	<time>13:00</time>
-	<time>15:30</time>
-	<time>18:00</time>
-	<time>20:30</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>10:10</time>
-	<time>12:40</time>
-	<time>16:15</time>
-	<time>19:00</time>
-	<time>21:35</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>12:05</time>
-	<time>20:15</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>14:00</time>
-	<time>16:25</time>
-	<time>18:50</time>
-	<time>21:15</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>18:45</time>
-	<time>21:05</time>
-</name>
-<name id="456989" value="Самолеты 3D">
-	<time>10:50</time>
-	<time>12:50</time>
-	<time>14:50</time>
-	<time>16:50</time>
-</name>
-<name id="456989" value="Смурфики 2">
-	<time>13:25</time>
-	<time>17:35</time>
-</name>
-<name id="456989" value="Турбо">
-	<time>14:00</time>
-</name>
-<name id="456989" value="Никчемный я 2">
-	<time>11:20</time>
-	<time>15:30</time>
-	<time>19:40</time>
-</name>
-<name id="456989" value="Мы - Миллеры">
-	<time>11:40</time>
-	<time>16:10</time>
-	<time>18:30</time>
-	<time>20:50</time>
-</name>
-</film>
-<film>
-<cinema>IMAX</cinema>
-<name id="456989" value="Риддик 3D">
-	<time>20:00</time>
-	<time>22:25</time>
-</name>
-<name id="456989" value="Тихоокеанский рубеж">
-	<time>17:10</time>
-</name>
-</film>
-<film>
-<cinema>Оскар</cinema>
-<name id="456989" value="Ломбард">
-	<time>15:50</time>
-	<time>17:40</time>
-	<time>19:30</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>16:00</time>
-</name>
-<name id="456989" value="Лавлэйс">
-	<time>22:00</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>18:00</time>
-	<time>18:00</time>
-	<time>20:20</time>
-	<time>20:20</time>
-	<time>22:50</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>16:10</time>
-	<time>18:20</time>
-</name>
-<name id="456989" value="Интимные места">
-	<time>18:00</time>
-	<time>21:50</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>16:00</time>
-	<time>19:50</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>17:10</time>
-	<time>19:30</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>20:00</time>
-	<time>22:10</time>
-</name>
-<name id="456989" value="Мы - Миллеры">
-	<time>16:50</time>
-	<time>19:00</time>
-	<time>21:10</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-</film>
-<film>
-<cinema>Линия кино ТЦ Аладдин</cinema>
-<name id="456989" value="Ломбард">
-	<time>17:40</time>
-	<time>21:30</time>
-	<time>23:20</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>17:40</time>
-	<time>20:10</time>
-	<time>22:40</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>17:00</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>15:40</time>
-	<time>19:30</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>21:10</time>
-</name>
-<name id="456989" value="Мы - Миллеры">
-	<time>19:00</time>
-	<time>23:20</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>16:50</time>
-	<time>19:10</time>
-	<time>21:30</time>
-</name>
-</film>
-<film>
-<cinema>Линия кино ТЦ Магелан</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>17:40</time>
-	<time>20:10</time>
-	<time>22:40</time>
-</name>
-<name id="457391" value="Cпасти землю 3D">
-	<time>17:10</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>21:50</time>
-</name>
-<name id="457391" value="Одноклассники 2">
-	<time>21:10</time>
-</name>
-<name id="457391" value="Мы - Миллеры">
-	<time>19:00</time>
-	<time>23:20</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>17:00</time>
-	<time>19:30</time>
-</name>
-</film>
-<film>
-<cinema>Линия кино ТЦ Метрополис</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>17:40</time>
-	<time>20:10</time>
-	<time>22:40</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>21:50</time>
-</name>
-<name id="457391" value="Одноклассники 2">
-	<time>16:50</time>
-	<time>21:10</time>
-</name>
-<name id="457391" value="Мы - Миллеры">
-	<time>19:00</time>
-	<time>23:20</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>17:00</time>
-	<time>19:30</time>
-</name>
-</film>
-<film>
-<cinema>Одесса-кино в ТЦ Квадрат</cinema>
-<name id="455748" value="Запрещенная страсть">
-	<time>22:10</time>
-</name>
-<name id="455748" value="Ломбард">
-	<time>16:10</time>
-	<time>20:20</time>
-</name>
-<name id="455748" value="Джобс: Империя соблазна">
-	<time>16:55</time>
-	<time>19:15</time>
-	<time>21:35</time>
-</name>
-<name id="455748" value="Бойфренд из будущего">
-	<time>18:00</time>
-</name>
-<name id="455748" value="Одноклассники 2">
-	<time>16:40</time>
-	<time>18:40</time>
-	<time>20:40</time>
-	<time>22:40</time>
-</name>
-<name id="455748" value="Мы - Миллеры">
-	<time>16:50</time>
-</name>
-<name id="455748" value="Риддик 3D">
-	<time>19:00</time>
-	<time>21:20</time>
-</name>
-</film>
-<film>
-<cinema>Одесса-кино в ТЦ Украина</cinema>
-<name id="455748" value="Запрещенная страсть">
-	<time>21:20</time>
-</name>
-<name id="455748" value="Ломбард">
-	<time>16:10</time>
-	<time>18:00</time>
-	<time>19:50</time>
-	<time>21:40</time>
-</name>
-<name id="455748" value="Джобс: Империя соблазна">
-	<time>18:50</time>
-	<time>21:10</time>
-</name>
-<name id="455748" value="Бойфренд из будущего">
-	<time>16:30</time>
-</name>
-<name id="455748" value="Одноклассники 2">
-	<time>17:00</time>
-	<time>21:10</time>
-</name>
-<name id="455748" value="Мы - Миллеры">
-	<time>19:00</time>
-</name>
-<name id="455748" value="Риддик 3D">
-	<time>16:45</time>
-	<time>19:00</time>
-</name>
-</film>
-<film>
-<cinema>Киев</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>16:50</time>
-	<time>19:15</time>
-</name>
-<name id="457391" value="Интимные места">
-	<time>21:30</time>
-</name>
-<name id="457391" value="Прощай, Париж">
-	<time>19:00</time>
-</name>
-<name id="457391" value="Любовь по рецепту">
-	<time>21:15</time>
-</name>
-<name id="457391" value="Камилла Клодель, 1915">
-	<time>19:30</time>
-</name>
-<name id="457391" value="Молода и прекрасна">
-	<time>17:10</time>
-</name>
-<name id="457391" value="Лучшее предложение">
-	<time>17:00</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>21:00</time>
-</name>
-</film>
-<film>
-<cinema>Кинопалац</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>18:50</time>
-	<time>21:10</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>16:30</time>
-</name>
-</film>
-<film>
-<cinema>Мегаплекс в ТРК Блокбастер</cinema>
-<name id="455748" value="Запрещенная страсть">
-	<time>16:55</time>
-	<time>21:15</time>
-	<time>23:30</time>
-</name>
-<name id="455748" value="Ледяной">
-	<time>10:00</time>
-</name>
-<name id="455748" value="Ломбард">
-	<time>16:05</time>
-	<time>18:05</time>
-	<time>00:40</time>
-</name>
-<name id="455748" value="Всё включено. Каникулы в Греции">
-	<time>13:20</time>
-	<time>15:00</time>
-	<time>19:10</time>
-	<time>20:50</time>
-</name>
-<name id="455748" value="Интимные места">
-	<time>23:20</time>
-</name>
-<name id="455748" value="Риддик 3D">
-	<time>10:00</time>
-	<time>11:30</time>
-	<time>12:15</time>
-	<time>13:00</time>
-	<time>13:45</time>
-	<time>14:30</time>
-	<time>15:15</time>
-	<time>16:00</time>
-	<time>16:45</time>
-	<time>17:30</time>
-	<time>18:15</time>
-	<time>19:00</time>
-	<time>19:45</time>
-	<time>20:30</time>
-	<time>21:15</time>
-	<time>22:00</time>
-	<time>22:45</time>
-	<time>23:30</time>
-	<time>00:15</time>
-</name>
-<name id="455748" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>11:10</time>
-	<time>12:00</time>
-	<time>12:20</time>
-	<time>13:30</time>
-	<time>14:20</time>
-	<time>14:40</time>
-	<time>15:50</time>
-	<time>16:40</time>
-	<time>17:00</time>
-	<time>18:10</time>
-	<time>19:20</time>
-	<time>20:00</time>
-	<time>20:30</time>
-	<time>21:00</time>
-	<time>21:40</time>
-	<time>22:20</time>
-	<time>22:50</time>
-	<time>23:59</time>
-</name>
-<name id="455748" value="Два ствола">
-	<time>10:15</time>
-	<time>12:30</time>
-	<time>14:45</time>
-	<time>19:05</time>
-</name>
-<name id="455748" value="Бойфренд из будущего">
-	<time>11:20</time>
-	<time>13:45</time>
-	<time>16:10</time>
-	<time>18:35</time>
-	<time>21:00</time>
-	<time>23:25</time>
-</name>
-<name id="455748" value="Одноклассники 2">
-	<time>12:30</time>
-	<time>14:35</time>
-	<time>18:55</time>
-	<time>21:00</time>
-	<time>23:05</time>
-</name>
-<name id="455748" value="Самолеты 3D">
-	<time>10:00</time>
-	<time>11:05</time>
-	<time>11:55</time>
-	<time>13:50</time>
-</name>
-<name id="455748" value="Перси Джексон: Море чудовищ">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-</name>
-<name id="455748" value="Майор">
-	<time>19:00</time>
-</name>
-<name id="455748" value="Элизиум">
-	<time>16:40</time>
-</name>
-<name id="455748" value="Смурфики 2">
-	<time>11:20</time>
-</name>
-<name id="455748" value="Турбо">
-	<time>10:30</time>
-</name>
-<name id="455748" value="Тихоокеанский рубеж">
-	<time>16:40</time>
-</name>
-<name id="455748" value="Великий Гэтсби">
-	<time>22:30</time>
-</name>
-<name id="455748" value="Мы - Миллеры">
-	<time>15:45</time>
-	<time>17:50</time>
-	<time>19:55</time>
-	<time>22:00</time>
-	<time>00:05</time>
-</name>
-</film>
-<film>
-<cinema>Мультиплекс в ТРЦ Комод</cinema>
-<name id="456989" value="Ломбард">
-	<time>20:25</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>11:55</time>
-	<time>14:10</time>
-	<time>16:25</time>
-	<time>18:40</time>
-	<time>20:55</time>
-	<time>23:10</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>10:05</time>
-	<time>14:25</time>
-	<time>16:35</time>
-	<time>19:00</time>
-	<time>21:20</time>
-	<time>23:40</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>12:15</time>
-	<time>15:45</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>11:00</time>
-	<time>13:20</time>
-	<time>18:00</time>
-	<time>22:20</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>11:05</time>
-	<time>13:10</time>
-	<time>17:20</time>
-</name>
-<name id="456989" value="Самолеты 3D">
-	<time>10:00</time>
-</name>
-<name id="456989" value="Мы - Миллеры">
-	<time>15:15</time>
-	<time>19:25</time>
-	<time>21:30</time>
-	<time>23:35</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй Кантри</cinema>
-<name id="456989" value="Риддик 3D">
-	<time>11:00</time>
-	<time>13:20</time>
-	<time>15:40</time>
-	<time>18:00</time>
-	<time>20:20</time>
-	<time>22:40</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>12:10</time>
-	<time>14:30</time>
-	<time>16:50</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>19:10</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>17:20</time>
-	<time>19:20</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Самолеты 3D">
-	<time>11:50</time>
-	<time>13:40</time>
-	<time>15:30</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй Большевик</cinema>
-<name id="456948" value="Бойфренд из будущего">
-	<time>10:10</time>
-	<time>14:40</time>
-	<time>19:10</time>
-</name>
-<name id="456948" value="Мы - Миллеры">
-	<time>12:30</time>
-	<time>17:00</time>
-	<time>21:30</time>
-</name>
-<name id="456948" value="Одноклассники 2">
-	<time>15:30</time>
-	<time>19:40</time>
-</name>
-<name id="456948" value="Самолеты 3D">
-	<time>10:00</time>
-	<time>11:50</time>
-	<time>13:40</time>
-</name>
-<name id="456948" value="Два ствола">
-	<time>17:30</time>
-	<time>21:40</time>
-</name>
-<name id="456948" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-<name id="456948" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй Ультрамарин</cinema>
-<name id="456948" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-<name id="456948" value="Самолеты 3D">
-	<time>10:10</time>
-	<time>12:00</time>
-</name>
-<name id="456948" value="Два ствола">
-	<time>13:50</time>
-	<time>16:00</time>
-	<time>18:10</time>
-	<time>20:20</time>
-	<time>22:30</time>
-</name>
-<name id="456948" value="Бойфренд из будущего">
-	<time>11:00</time>
-	<time>13:20</time>
-	<time>15:40</time>
-	<time>18:00</time>
-</name>
-<name id="456948" value="Запрещенная страсть">
-	<time>20:20</time>
-	<time>22:25</time>
-</name>
-<name id="456948" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-<name id="456948" value="Мы - Миллеры">
-	<time>10:00</time>
-	<time>12:10</time>
-	<time>14:20</time>
-	<time>16:30</time>
-	<time>18:40</time>
-	<time>20:50</time>
-	<time>22:55</time>
-</name>
-<name id="456948" value="Одноклассники 2">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-	<time>16:00</time>
-	<time>18:00</time>
-	<time>20:00</time>
-	<time>22:00</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй DeLuxe</cinema>
-<name id="456948" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-<name id="456948" value="Бойфренд из будущего">
-	<time>10:00</time>
-	<time>14:30</time>
-	<time>19:00</time>
-</name>
-<name id="456948" value="Два ствола">
-	<time>12:20</time>
-	<time>16:50</time>
-	<time>21:20</time>
-</name>
-<name id="456948" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-</film>
-<film>
-<cinema>Украина</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>11:00</time>
-	<time>13:30</time>
-	<time>16:00</time>
-	<time>18:30</time>
-	<time>21:00</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>14:20</time>
-	<time>16:50</time>
-	<time>19:10</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>10:00</time>
-	<time>21:30</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>12:10</time>
-</name>
-</film>
-<film>
-<cinema>Спутник</cinema>
-<name id="456989" value="Ломбард">
-	<time>19:00</time>
-	<time>22:35</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>17:10</time>
-	<time>21:00</time>
-	<time>22:50</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>16:20</time>
-	<time>18:50</time>
-	<time>20:30</time>
-	<time>22:45</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>19:00</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>21:00</time>
-	<time>23:20</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>16:45</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>17:10</time>
-	<time>18:40</time>
-	<time>20:45</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>16:30</time>
-	<time>18:50</time>
-	<time>21:15</time>
-	<time>23:35</time>
-</name>
-</film>
-<film>
-<cinema>Жовтень</cinema>
-<name id="456989" value="Французький кіноклуб">
-	<time>19:20</time>
-</name>
-<name id="456989" value="Ломбард">
-	<time>11:20</time>
-	<time>15:20</time>
-	<time>21:35</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>13:30</time>
-	<time>17:25</time>
-</name>
-<name id="456989" value="FUTURE SHORTS - БАРХАТНЫЙ СЕЗОН-2013">
-	<time>16:35</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>14:00</time>
-	<time>15:50</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>13:05</time>
-	<time>17:05</time>
-	<time>19:20</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>11:55</time>
-	<time>14:15</time>
-	<time>16:35</time>
-	<time>18:55</time>
-	<time>21:15</time>
-</name>
-<name id="456989" value="Фрэнсис Ха">
-	<time>21:35</time>
-</name>
-<name id="456989" value="Лучшее предложение">
-	<time>15:10</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Молода и прекрасна">
-	<time>17:40</time>
-	<time>19:55</time>
-</name>
-<name id="456989" value="Пена дней">
-	<time>19:05</time>
-</name>
-<name id="456989" value="Камилла Клодель, 1915">
-	<time>13:05</time>
-	<time>14:50</time>
-	<time>18:10</time>
-</name>
-</film>
-<film>
-<cinema>Кинопанорама</cinema>
-<name id="458605" value="Молода и прекрасна">
-	<time>17:20</time>
-	<time>19:00</time>
-</name>
-<name id="458605" value="Прощай, Париж">
-	<time>12:20</time>
-	<time>14:00</time>
-	<time>15:40</time>
-	<time>20:40</time>
-</name>
-<name id="458605" value="Молода и прекрасна">
-	<time>21:00</time>
-	<time>23:00</time>
-</name>
-<name id="458605" value="Фрэнсис Ха">
-	<time>13:00</time>
-	<time>17:00</time>
-</name>
-<name id="458605" value="Камилла Клодель, 1915">
-	<time>11:00</time>
-	<time>15:00</time>
-	<time>19:00</time>
-</name>
-</film>
-<film>
-<cinema>Лейпциг</cinema>
-<name id="476047" value="Всё включено. Каникулы в Греции">
-	<time>18:10</time>
-	<time>19:50</time>
-</name>
-<name id="476047" value="Бойфренд из будущего">
-	<time>17:00</time>
-	<time>21:40</time>
-</name>
-<name id="476047" value="Лучшее предложение">
-	<time>15:50</time>
-	<time>19:20</time>
-	<time>21:30</time>
-</name>
-</film>
-<film>
-<cinema>Ленинград</cinema>
-<name id="456989" value="Ломбард">
-	<time>15:50</time>
-	<time>17:50</time>
-	<time>19:50</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>19:40</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>18:10</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>16:20</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>17:00</time>
-	<time>21:30</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>19:30</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>21:50</time>
-</name>
-</film>
-<film>
-<cinema>Флоренция</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>21:40</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>12:20</time>
-	<time>17:00</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>10:00</time>
-	<time>14:40</time>
-	<time>19:20</time>
-</name>
-<name id="457391" value="Интимные места">
-	<time>23:30</time>
-</name>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>12:05</time>
-	<time>14:25</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>16:45</time>
-	<time>19:05</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>10:00</time>
-	<time>21:25</time>
-</name>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>16:00</time>
-</name>
-<name id="457391" value="Ломбард">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-	<time>20:40</time>
-	<time>22:40</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>18:20</time>
-</name>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>13:05</time>
-	<time>16:10</time>
-	<time>21:05</time>
-</name>
-<name id="457391" value="Всё включено. Каникулы в Греции">
-	<time>11:25</time>
-	<time>14:30</time>
-	<time>19:25</time>
-</name>
-<name id="457391" value="Прощай, Париж">
-	<time>17:35</time>
-	<time>22:30</time>
-</name>
-</film>
-<film>
-<cinema>Факел</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>12:00</time>
-</name>
-<name id="457391" value="Ломбард">
-	<time>16:00</time>
-	<time>18:00</time>
-	<time>20:00</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>14:00</time>
-</name>
-</film>
-<film>
-<cinema>Старт</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>11:30</time>
-</name>
-<name id="457391" value="Тихоокеанский рубеж">
-	<time>19:50</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>13:00</time>
-	<time>14:30</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>16:00</time>
-	<time>18:00</time>
-</name>
-</film>
-<film>
-<cinema>Салют</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>16:00</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>12:00</time>
-	<time>14:00</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>18:00</time>
-	<time>20:00</time>
-</name>
-</film>
-<film>
-<cinema>Проминь</cinema>
-<name id="181258" value="Тихоокеанский рубеж">
-	<time>13:50</time>
-	<time>17:50</time>
-</name>
-<name id="181258" value="Никчемный я 2">
-	<time>10:00</time>
-	<time>12:00</time>
-</name>
-<name id="181258" value="Элизиум">
-	<time>16:00</time>
-	<time>20:00</time>
-</name>
-</film>
-<film>
-<cinema>Кинодром</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>22:20</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>20:40</time>
-</name>
-<name id="457391" value="Одноклассники 2">
-	<time>00:20</time>
-</name>
-</film>
-<film>
-<cinema>Кадр</cinema>
-<name id="457391" value="Смурфики 2">
-	<time>12:20</time>
-	<time>17:30</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>09:00</time>
-	<time>14:10</time>
-	<time>19:10</time>
-</name>
-<name id="457391" value="Никчемный я 2">
-	<time>10:40</time>
-	<time>15:50</time>
-</name>
-</film>
-<film>
-<cinema>им. Чапаева</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-</name>
-<name id="457391" value="Киноглаз">
-	<time>19:30</time>
-</name>
-<name id="457391" value="New Vision Международный фестиваль короткометражного кино - Best Summer Shorts 2013">
-	<time>16:00</time>
-	<time>18:00</time>
-</name>
-</film>
-<film>
-<cinema>Алмаз</cinema>
-<name id="457391" value="Смурфики 2">
-	<time>14:20</time>
-	<time>16:20</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>10:30</time>
-	<time>12:30</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>18:30</time>
-	<time>20:20</time>
-</name>
-</film>
-<film>
-<cinema>Магнат</cinema>
-<name id="456989" value="Ломбард">
-	<time>11:35</time>
-	<time>19:00</time>
-</name>
-<name id="456989" value="Самолеты 3D">
-	<time>10:00</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>16:55</time>
-	<time>22:30</time>
-</name>
-<name id="456989" value="Перси Джексон: Море чудовищ">
-	<time>15:00</time>
-	<time>20:35</time>
-</name>
-<name id="456989" value="Никчемный я 2">
-	<time>13:10</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>10:10</time>
-	<time>13:05</time>
-	<time>16:00</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>11:35</time>
-	<time>14:30</time>
-	<time>22:15</time>
-</name>
-<name id="456989" value="Великий Гэтсби">
-	<time>17:25</time>
-	<time>19:50</time>
-</name>
-</film>
-<film>
-<cinema>Синема-Сити</cinema>
-<name id="455748" value="Запрещенная страсть">
-	<time>10:05</time>
-	<time>12:15</time>
-	<time>14:30</time>
-	<time>16:40</time>
-	<time>19:00</time>
-	<time>21:10</time>
-</name>
-<name id="455748" value="Ломбард">
-	<time>10:00</time>
-	<time>11:50</time>
-	<time>13:40</time>
-	<time>15:40</time>
-	<time>19:40</time>
-	<time>21:30</time>
-</name>
-<name id="455748" value="Всё включено. Каникулы в Греции">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>16:00</time>
-	<time>20:00</time>
-	<time>22:00</time>
-	<time>23:50</time>
-</name>
-<name id="455748" value="Прощай, Париж">
-	<time>12:50</time>
-	<time>17:20</time>
-</name>
-<name id="455748" value="Cпасти землю 3D">
-	<time>11:00</time>
-	<time>14:45</time>
-</name>
-<name id="455748" value="Интимные места">
-	<time>21:55</time>
-	<time>23:50</time>
-</name>
-<name id="455748" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:00</time>
-	<time>23:55</time>
-</name>
-<name id="455748" value="Джобс: Империя соблазна">
-	<time>10:50</time>
-	<time>13:20</time>
-	<time>15:50</time>
-	<time>18:20</time>
-	<time>18:40</time>
-	<time>19:30</time>
-	<time>20:50</time>
-	<time>21:40</time>
-	<time>23:15</time>
-</name>
-<name id="455748" value="Два ствола">
-	<time>10:40</time>
-	<time>18:00</time>
-</name>
-<name id="455748" value="Бойфренд из будущего">
-	<time>10:30</time>
-	<time>13:00</time>
-	<time>15:30</time>
-	<time>20:30</time>
-	<time>23:05</time>
-</name>
-<name id="455748" value="Орудия смерти: Город костей">
-	<time>14:50</time>
-</name>
-<name id="455748" value="Одноклассники 2">
-	<time>14:00</time>
-	<time>17:50</time>
-</name>
-<name id="455748" value="Самолеты 3D">
-	<time>12:40</time>
-</name>
-<name id="455748" value="Перси Джексон: Море чудовищ">
-	<time>16:30</time>
-</name>
-<name id="455748" value="Майор">
-	<time>23:20</time>
-</name>
-<name id="455748" value="Мы - Миллеры">
-	<time>17:30</time>
-</name>
-</film>
-</date><date value="2013-09-24">
-<film>
-<cinema>Kronverk Cinema Skymall</cinema>
-<name id="456989" value="Ломбард">
-	<time>10:10</time>
-	<time>11:10</time>
-	<time>13:10</time>
-	<time>14:20</time>
-	<time>15:20</time>
-	<time>17:20</time>
-	<time>18:20</time>
-	<time>19:20</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>10:40</time>
-	<time>12:35</time>
-	<time>14:30</time>
-	<time>16:25</time>
-	<time>18:20</time>
-	<time>20:20</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>16:15</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>10:20</time>
-	<time>12:10</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>10:30</time>
-	<time>13:00</time>
-	<time>15:30</time>
-	<time>18:00</time>
-	<time>20:30</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>10:10</time>
-	<time>12:40</time>
-	<time>16:15</time>
-	<time>19:00</time>
-	<time>21:35</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>12:05</time>
-	<time>20:15</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>14:00</time>
-	<time>16:25</time>
-	<time>18:50</time>
-	<time>21:15</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>18:45</time>
-	<time>21:05</time>
-</name>
-<name id="456989" value="Самолеты 3D">
-	<time>10:50</time>
-	<time>12:50</time>
-	<time>14:50</time>
-	<time>16:50</time>
-</name>
-<name id="456989" value="Смурфики 2">
-	<time>13:25</time>
-	<time>17:35</time>
-</name>
-<name id="456989" value="Турбо">
-	<time>14:00</time>
-</name>
-<name id="456989" value="Никчемный я 2">
-	<time>11:20</time>
-	<time>15:30</time>
-	<time>19:40</time>
-</name>
-<name id="456989" value="Мы - Миллеры">
-	<time>11:40</time>
-	<time>16:10</time>
-	<time>18:30</time>
-	<time>20:50</time>
-</name>
-</film>
-<film>
-<cinema>IMAX</cinema>
-<name id="456989" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:45</time>
-	<time>20:00</time>
-	<time>22:25</time>
-</name>
-<name id="456989" value="Тихоокеанский рубеж">
-	<time>17:10</time>
-</name>
-</film>
-<film>
-<cinema>Оскар</cinema>
-<name id="456989" value="Ломбард">
-	<time>10:20</time>
-	<time>12:10</time>
-	<time>14:00</time>
-	<time>15:50</time>
-	<time>17:40</time>
-	<time>19:30</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>10:30</time>
-	<time>12:20</time>
-	<time>14:10</time>
-	<time>16:00</time>
-</name>
-<name id="456989" value="Лавлэйс">
-	<time>22:00</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>10:20</time>
-	<time>12:50</time>
-	<time>15:20</time>
-	<time>18:00</time>
-	<time>18:00</time>
-	<time>20:20</time>
-	<time>20:20</time>
-	<time>22:50</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>11:00</time>
-	<time>12:40</time>
-	<time>14:30</time>
-	<time>16:10</time>
-	<time>18:20</time>
-</name>
-<name id="456989" value="Интимные места">
-	<time>18:00</time>
-	<time>21:50</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-	<time>16:00</time>
-	<time>19:50</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>10:00</time>
-	<time>14:40</time>
-	<time>17:10</time>
-	<time>19:30</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>12:30</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>20:00</time>
-	<time>22:10</time>
-</name>
-<name id="456989" value="Мы - Миллеры">
-	<time>10:20</time>
-	<time>12:30</time>
-	<time>14:40</time>
-	<time>16:50</time>
-	<time>19:00</time>
-	<time>21:10</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-</film>
-<film>
-<cinema>Линия кино ТЦ Аладдин</cinema>
-<name id="456989" value="Ломбард">
-	<time>10:00</time>
-	<time>13:50</time>
-	<time>17:40</time>
-	<time>21:30</time>
-	<time>23:20</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>10:10</time>
-	<time>12:40</time>
-	<time>15:10</time>
-	<time>17:40</time>
-	<time>20:10</time>
-	<time>22:40</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>10:20</time>
-	<time>12:00</time>
-	<time>13:40</time>
-	<time>15:20</time>
-	<time>17:00</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>11:50</time>
-	<time>15:40</time>
-	<time>19:30</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>10:00</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>21:10</time>
-</name>
-<name id="456989" value="Мы - Миллеры">
-	<time>19:00</time>
-	<time>23:20</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>12:10</time>
-	<time>14:30</time>
-	<time>16:50</time>
-	<time>19:10</time>
-	<time>21:30</time>
-</name>
-</film>
-<film>
-<cinema>Линия кино ТЦ Магелан</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>10:10</time>
-	<time>12:40</time>
-	<time>15:10</time>
-	<time>17:40</time>
-	<time>20:10</time>
-	<time>22:40</time>
-</name>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:20</time>
-	<time>12:00</time>
-	<time>13:40</time>
-	<time>15:20</time>
-	<time>17:10</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>12:10</time>
-	<time>21:50</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>10:00</time>
-</name>
-<name id="457391" value="Одноклассники 2">
-	<time>21:10</time>
-</name>
-<name id="457391" value="Мы - Миллеры">
-	<time>19:00</time>
-	<time>23:20</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>14:30</time>
-	<time>17:00</time>
-	<time>19:30</time>
-</name>
-</film>
-<film>
-<cinema>Линия кино ТЦ Метрополис</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>10:10</time>
-	<time>12:40</time>
-	<time>15:10</time>
-	<time>17:40</time>
-	<time>20:10</time>
-	<time>22:40</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>12:10</time>
-	<time>21:50</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>10:00</time>
-</name>
-<name id="457391" value="Одноклассники 2">
-	<time>12:30</time>
-	<time>16:50</time>
-	<time>21:10</time>
-</name>
-<name id="457391" value="Мы - Миллеры">
-	<time>10:20</time>
-	<time>14:40</time>
-	<time>19:00</time>
-	<time>23:20</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>14:30</time>
-	<time>17:00</time>
-	<time>19:30</time>
-</name>
-</film>
-<film>
-<cinema>Одесса-кино в ТЦ Квадрат</cinema>
-<name id="455748" value="Запрещенная страсть">
-	<time>22:10</time>
-</name>
-<name id="455748" value="Ломбард">
-	<time>10:40</time>
-	<time>12:30</time>
-	<time>14:20</time>
-	<time>16:10</time>
-	<time>20:20</time>
-</name>
-<name id="455748" value="Джобс: Империя соблазна">
-	<time>12:15</time>
-	<time>16:55</time>
-	<time>19:15</time>
-	<time>21:35</time>
-</name>
-<name id="455748" value="Бойфренд из будущего">
-	<time>09:55</time>
-	<time>14:35</time>
-	<time>18:00</time>
-</name>
-<name id="455748" value="Два ствола">
-	<time>10:00</time>
-</name>
-<name id="455748" value="Одноклассники 2">
-	<time>10:40</time>
-	<time>12:40</time>
-	<time>14:40</time>
-	<time>16:40</time>
-	<time>18:40</time>
-	<time>20:40</time>
-	<time>22:40</time>
-</name>
-<name id="455748" value="Мы - Миллеры">
-	<time>16:50</time>
-</name>
-<name id="455748" value="Риддик 3D">
-	<time>12:10</time>
-	<time>14:30</time>
-	<time>19:00</time>
-	<time>21:20</time>
-</name>
-</film>
-<film>
-<cinema>Одесса-кино в ТЦ Украина</cinema>
-<name id="455748" value="Запрещенная страсть">
-	<time>21:20</time>
-</name>
-<name id="455748" value="Ломбард">
-	<time>10:40</time>
-	<time>12:30</time>
-	<time>14:20</time>
-	<time>16:10</time>
-	<time>18:00</time>
-	<time>19:50</time>
-	<time>21:40</time>
-</name>
-<name id="455748" value="Джобс: Империя соблазна">
-	<time>12:05</time>
-	<time>14:25</time>
-	<time>18:50</time>
-	<time>21:10</time>
-</name>
-<name id="455748" value="Бойфренд из будущего">
-	<time>09:50</time>
-	<time>16:30</time>
-</name>
-<name id="455748" value="Два ствола">
-	<time>09:50</time>
-</name>
-<name id="455748" value="Одноклассники 2">
-	<time>12:50</time>
-	<time>17:00</time>
-	<time>21:10</time>
-</name>
-<name id="455748" value="Мы - Миллеры">
-	<time>10:40</time>
-	<time>14:50</time>
-	<time>19:00</time>
-</name>
-<name id="455748" value="Риддик 3D">
-	<time>12:00</time>
-	<time>14:15</time>
-	<time>16:45</time>
-	<time>19:00</time>
-</name>
-</film>
-<film>
-<cinema>Киев</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>12:15</time>
-	<time>16:50</time>
-	<time>19:15</time>
-</name>
-<name id="457391" value="Интимные места">
-	<time>21:30</time>
-</name>
-<name id="457391" value="Прощай, Париж">
-	<time>15:10</time>
-	<time>19:00</time>
-</name>
-<name id="457391" value="Любовь по рецепту">
-	<time>21:30</time>
-</name>
-<name id="457391" value="Камилла Клодель, 1915">
-	<time>14:10</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>10:30</time>
-	<time>12:50</time>
-</name>
-<name id="457391" value="Молода и прекрасна">
-	<time>17:10</time>
-</name>
-<name id="457391" value="Лучшее предложение">
-	<time>16:00</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>14:30</time>
-	<time>21:00</time>
-</name>
-</film>
-<film>
-<cinema>Кинопалац</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>14:10</time>
-	<time>18:50</time>
-	<time>21:10</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>11:50</time>
-	<time>16:30</time>
-</name>
-</film>
-<film>
-<cinema>Мультиплекс в ТРЦ Комод</cinema>
-<name id="456989" value="Ломбард">
-	<time>20:25</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>11:55</time>
-	<time>14:10</time>
-	<time>16:25</time>
-	<time>18:40</time>
-	<time>20:55</time>
-	<time>23:10</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>10:05</time>
-	<time>14:25</time>
-	<time>16:35</time>
-	<time>19:00</time>
-	<time>21:20</time>
-	<time>23:40</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>12:15</time>
-	<time>15:45</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>11:00</time>
-	<time>13:20</time>
-	<time>18:00</time>
-	<time>22:20</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>11:05</time>
-	<time>13:10</time>
-	<time>17:20</time>
-</name>
-<name id="456989" value="Самолеты 3D">
-	<time>10:00</time>
-</name>
-<name id="456989" value="Мы - Миллеры">
-	<time>15:15</time>
-	<time>19:25</time>
-	<time>21:30</time>
-	<time>23:35</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй Кантри</cinema>
-<name id="456989" value="Риддик 3D">
-	<time>11:00</time>
-	<time>13:20</time>
-	<time>15:40</time>
-	<time>18:00</time>
-	<time>20:20</time>
-	<time>22:40</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>12:10</time>
-	<time>14:30</time>
-	<time>16:50</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>19:10</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>17:20</time>
-	<time>19:20</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Самолеты 3D">
-	<time>11:50</time>
-	<time>13:40</time>
-	<time>15:30</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй Большевик</cinema>
-<name id="456948" value="Бойфренд из будущего">
-	<time>10:10</time>
-	<time>14:40</time>
-	<time>19:10</time>
-</name>
-<name id="456948" value="Мы - Миллеры">
-	<time>12:30</time>
-	<time>17:00</time>
-	<time>21:30</time>
-</name>
-<name id="456948" value="Одноклассники 2">
-	<time>15:30</time>
-	<time>19:40</time>
-</name>
-<name id="456948" value="Самолеты 3D">
-	<time>10:00</time>
-	<time>11:50</time>
-	<time>13:40</time>
-</name>
-<name id="456948" value="Два ствола">
-	<time>17:30</time>
-	<time>21:40</time>
-</name>
-<name id="456948" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-<name id="456948" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй Ультрамарин</cinema>
-<name id="456948" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-<name id="456948" value="Самолеты 3D">
-	<time>10:10</time>
-	<time>12:00</time>
-</name>
-<name id="456948" value="Два ствола">
-	<time>13:50</time>
-	<time>16:00</time>
-	<time>18:10</time>
-	<time>20:20</time>
-	<time>22:30</time>
-</name>
-<name id="456948" value="Бойфренд из будущего">
-	<time>11:00</time>
-	<time>13:20</time>
-	<time>15:40</time>
-	<time>18:00</time>
-</name>
-<name id="456948" value="Запрещенная страсть">
-	<time>20:20</time>
-	<time>22:25</time>
-</name>
-<name id="456948" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-<name id="456948" value="Мы - Миллеры">
-	<time>10:00</time>
-	<time>12:10</time>
-	<time>14:20</time>
-	<time>16:30</time>
-	<time>18:40</time>
-	<time>20:50</time>
-	<time>22:55</time>
-</name>
-<name id="456948" value="Одноклассники 2">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-	<time>16:00</time>
-	<time>18:00</time>
-	<time>20:00</time>
-	<time>22:00</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй DeLuxe</cinema>
-<name id="456948" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-<name id="456948" value="Бойфренд из будущего">
-	<time>10:00</time>
-	<time>14:30</time>
-	<time>19:00</time>
-</name>
-<name id="456948" value="Два ствола">
-	<time>12:20</time>
-	<time>16:50</time>
-	<time>21:20</time>
-</name>
-<name id="456948" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-</film>
-<film>
-<cinema>Украина</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>11:00</time>
-	<time>13:30</time>
-	<time>16:00</time>
-	<time>18:30</time>
-	<time>21:00</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>14:20</time>
-	<time>16:50</time>
-	<time>19:10</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>10:00</time>
-	<time>21:30</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>12:10</time>
-</name>
-</film>
-<film>
-<cinema>Спутник</cinema>
-<name id="456989" value="Ломбард">
-	<time>10:00</time>
-	<time>11:45</time>
-	<time>12:40</time>
-	<time>15:20</time>
-	<time>19:00</time>
-	<time>22:35</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>09:45</time>
-	<time>13:30</time>
-	<time>17:10</time>
-	<time>21:00</time>
-	<time>22:50</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>12:10</time>
-	<time>14:15</time>
-	<time>16:20</time>
-	<time>18:50</time>
-	<time>20:30</time>
-	<time>22:45</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>11:30</time>
-	<time>15:20</time>
-	<time>19:00</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>09:40</time>
-	<time>14:30</time>
-	<time>21:00</time>
-	<time>23:20</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>10:30</time>
-	<time>16:45</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>10:10</time>
-	<time>13:25</time>
-	<time>14:35</time>
-	<time>17:10</time>
-	<time>18:40</time>
-	<time>20:45</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>12:00</time>
-	<time>16:30</time>
-	<time>18:50</time>
-	<time>21:15</time>
-	<time>23:35</time>
-</name>
-</film>
-<film>
-<cinema>Жовтень</cinema>
-<name id="456989" value="Ломбард">
-	<time>11:20</time>
-	<time>15:20</time>
-	<time>21:35</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>13:30</time>
-	<time>17:25</time>
-</name>
-<name id="456989" value="FUTURE SHORTS - БАРХАТНЫЙ СЕЗОН-2013">
-	<time>15:00</time>
-	<time>21:35</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>14:30</time>
-	<time>18:00</time>
-	<time>21:30</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>13:05</time>
-	<time>17:05</time>
-	<time>19:20</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>11:55</time>
-	<time>14:15</time>
-	<time>16:35</time>
-	<time>18:55</time>
-	<time>21:15</time>
-</name>
-<name id="456989" value="Фрэнсис Ха">
-	<time>13:00</time>
-	<time>20:05</time>
-</name>
-<name id="456989" value="Лучшее предложение">
-	<time>15:10</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Молода и прекрасна">
-	<time>16:20</time>
-	<time>19:50</time>
-</name>
-<name id="456989" value="Пена дней">
-	<time>19:05</time>
-</name>
-<name id="456989" value="Камилла Клодель, 1915">
-	<time>13:15</time>
-	<time>16:35</time>
-	<time>18:20</time>
-</name>
-</film>
-<film>
-<cinema>Кинопанорама</cinema>
-<name id="458605" value="Молода и прекрасна">
-	<time>17:20</time>
-	<time>19:00</time>
-</name>
-<name id="458605" value="Прощай, Париж">
-	<time>12:20</time>
-	<time>14:00</time>
-	<time>15:40</time>
-	<time>20:40</time>
-</name>
-<name id="458605" value="Молода и прекрасна">
-	<time>21:00</time>
-	<time>23:00</time>
-</name>
-<name id="458605" value="Фрэнсис Ха">
-	<time>13:00</time>
-	<time>17:00</time>
-</name>
-<name id="458605" value="Камилла Клодель, 1915">
-	<time>11:00</time>
-	<time>15:00</time>
-	<time>19:00</time>
-</name>
-</film>
-<film>
-<cinema>Лейпциг</cinema>
-<name id="476047" value="Всё включено. Каникулы в Греции">
-	<time>10:00</time>
-	<time>14:00</time>
-	<time>18:10</time>
-	<time>19:50</time>
-</name>
-<name id="476047" value="Бойфренд из будущего">
-	<time>12:20</time>
-	<time>17:00</time>
-	<time>21:40</time>
-</name>
-<name id="476047" value="Два ствола">
-	<time>10:00</time>
-	<time>14:40</time>
-</name>
-<name id="476047" value="Лучшее предложение">
-	<time>11:40</time>
-	<time>15:50</time>
-	<time>19:20</time>
-	<time>21:30</time>
-</name>
-</film>
-<film>
-<cinema>Ленинград</cinema>
-<name id="456989" value="Ломбард">
-	<time>11:55</time>
-	<time>13:50</time>
-	<time>15:50</time>
-	<time>17:50</time>
-	<time>19:50</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>11:30</time>
-	<time>14:40</time>
-	<time>19:40</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>13:10</time>
-	<time>18:10</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>16:20</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>10:00</time>
-	<time>12:25</time>
-	<time>17:00</time>
-	<time>21:30</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>14:50</time>
-	<time>19:30</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>10:00</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>21:50</time>
-</name>
-</film>
-<film>
-<cinema>Флоренция</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>21:40</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>12:20</time>
-	<time>17:00</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>10:00</time>
-	<time>14:40</time>
-	<time>19:20</time>
-</name>
-<name id="457391" value="Интимные места">
-	<time>23:30</time>
-</name>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>12:05</time>
-	<time>14:25</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>16:45</time>
-	<time>19:05</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>10:00</time>
-	<time>21:25</time>
-</name>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>16:00</time>
-</name>
-<name id="457391" value="Ломбард">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-	<time>20:40</time>
-	<time>22:40</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>18:20</time>
-</name>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>13:05</time>
-	<time>16:10</time>
-	<time>21:05</time>
-</name>
-<name id="457391" value="Всё включено. Каникулы в Греции">
-	<time>11:25</time>
-	<time>14:30</time>
-	<time>19:25</time>
-</name>
-<name id="457391" value="Прощай, Париж">
-	<time>17:35</time>
-	<time>22:30</time>
-</name>
-</film>
-<film>
-<cinema>Факел</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>12:00</time>
-</name>
-<name id="457391" value="Ломбард">
-	<time>16:00</time>
-	<time>18:00</time>
-	<time>20:00</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>14:00</time>
-</name>
-</film>
-<film>
-<cinema>Старт</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>11:30</time>
-</name>
-<name id="457391" value="Тихоокеанский рубеж">
-	<time>19:50</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>13:00</time>
-	<time>14:30</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>16:00</time>
-	<time>18:00</time>
-</name>
-</film>
-<film>
-<cinema>Салют</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>16:00</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>12:00</time>
-	<time>14:00</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>18:00</time>
-	<time>20:00</time>
-</name>
-</film>
-<film>
-<cinema>Проминь</cinema>
-<name id="181258" value="Тихоокеанский рубеж">
-	<time>13:50</time>
-	<time>17:50</time>
-</name>
-<name id="181258" value="Никчемный я 2">
-	<time>10:00</time>
-	<time>12:00</time>
-</name>
-<name id="181258" value="Элизиум">
-	<time>16:00</time>
-	<time>20:00</time>
-</name>
-</film>
-<film>
-<cinema>Кинодром</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>22:20</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>20:40</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>00:20</time>
-</name>
-</film>
-<film>
-<cinema>Кадр</cinema>
-<name id="457391" value="Смурфики 2">
-	<time>12:20</time>
-	<time>17:30</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>09:00</time>
-	<time>14:10</time>
-	<time>19:10</time>
-</name>
-<name id="457391" value="Никчемный я 2">
-	<time>10:40</time>
-	<time>15:50</time>
-</name>
-</film>
-<film>
-<cinema>им. Чапаева</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-</name>
-<name id="457391" value="New Vision Международный фестиваль короткометражного кино - Best Summer Shorts 2013">
-	<time>16:00</time>
-	<time>18:00</time>
-</name>
-</film>
-<film>
-<cinema>Алмаз</cinema>
-<name id="457391" value="Смурфики 2">
-	<time>14:20</time>
-	<time>16:20</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>10:30</time>
-	<time>12:30</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>18:30</time>
-	<time>20:20</time>
-</name>
-</film>
-<film>
-<cinema>Магнат</cinema>
-<name id="456989" value="Ломбард">
-	<time>11:35</time>
-	<time>19:00</time>
-</name>
-<name id="456989" value="Самолеты 3D">
-	<time>10:00</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>16:55</time>
-	<time>22:30</time>
-</name>
-<name id="456989" value="Перси Джексон: Море чудовищ">
-	<time>15:00</time>
-	<time>20:35</time>
-</name>
-<name id="456989" value="Никчемный я 2">
-	<time>13:10</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>10:10</time>
-	<time>13:05</time>
-	<time>16:00</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>11:35</time>
-	<time>14:30</time>
-	<time>22:15</time>
-</name>
-<name id="456989" value="Великий Гэтсби">
-	<time>17:25</time>
-	<time>19:50</time>
-</name>
-</film>
-<film>
-<cinema>Синема-Сити</cinema>
-<name id="455748" value="Запрещенная страсть">
-	<time>10:05</time>
-	<time>12:15</time>
-	<time>14:30</time>
-	<time>16:40</time>
-	<time>19:00</time>
-	<time>21:10</time>
-</name>
-<name id="455748" value="Ломбард">
-	<time>10:00</time>
-	<time>11:50</time>
-	<time>13:40</time>
-	<time>15:40</time>
-	<time>19:40</time>
-	<time>21:30</time>
-</name>
-<name id="455748" value="Всё включено. Каникулы в Греции">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>16:00</time>
-	<time>22:00</time>
-	<time>23:50</time>
-</name>
-<name id="455748" value="Прощай, Париж">
-	<time>12:50</time>
-	<time>17:20</time>
-</name>
-<name id="455748" value="Cпасти землю 3D">
-	<time>11:00</time>
-	<time>14:45</time>
-</name>
-<name id="455748" value="Интимные места">
-	<time>21:55</time>
-	<time>23:50</time>
-</name>
-<name id="455748" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:00</time>
-	<time>23:55</time>
-</name>
-<name id="455748" value="Джобс: Империя соблазна">
-	<time>10:50</time>
-	<time>13:20</time>
-	<time>15:50</time>
-	<time>18:20</time>
-	<time>18:40</time>
-	<time>19:30</time>
-	<time>20:50</time>
-	<time>21:40</time>
-	<time>23:15</time>
-</name>
-<name id="455748" value="Два ствола">
-	<time>10:40</time>
-	<time>18:00</time>
-</name>
-<name id="455748" value="Бойфренд из будущего">
-	<time>10:30</time>
-	<time>13:00</time>
-	<time>15:30</time>
-	<time>20:30</time>
-	<time>23:05</time>
-</name>
-<name id="455748" value="Орудия смерти: Город костей">
-	<time>14:50</time>
-</name>
-<name id="455748" value="Одноклассники 2">
-	<time>14:00</time>
-	<time>17:50</time>
-</name>
-<name id="455748" value="Самолеты 3D">
-	<time>12:40</time>
-</name>
-<name id="455748" value="Перси Джексон: Море чудовищ">
-	<time>16:30</time>
-	<time>23:25</time>
-</name>
-<name id="455748" value="Майор">
-	<time>23:20</time>
-</name>
-<name id="455748" value="Мы - Миллеры">
-	<time>17:30</time>
-</name>
-</film>
-</date><date value="2013-09-25">
-<film>
-<cinema>Kronverk Cinema Skymall</cinema>
-<name id="455748" value="Запрещенная страсть">
-	<time>22:30</time>
-	<time>00:50</time>
-</name>
-<name id="455748" value="Ломбард">
-	<time>10:10</time>
-	<time>11:10</time>
-	<time>13:10</time>
-	<time>14:20</time>
-	<time>15:20</time>
-	<time>17:20</time>
-	<time>18:20</time>
-	<time>19:20</time>
-	<time>21:20</time>
-	<time>23:20</time>
-</name>
-<name id="455748" value="Всё включено. Каникулы в Греции">
-	<time>10:40</time>
-	<time>12:35</time>
-	<time>14:30</time>
-	<time>16:25</time>
-	<time>18:20</time>
-	<time>20:20</time>
-	<time>22:20</time>
-	<time>00:20</time>
-</name>
-<name id="455748" value="Прощай, Париж">
-	<time>16:15</time>
-</name>
-<name id="455748" value="Голубоглазая Жасмин">
-	<time>20:00</time>
-</name>
-<name id="455748" value="Cпасти землю 3D">
-	<time>10:20</time>
-	<time>13:10</time>
-</name>
-<name id="455748" value="Интимные места">
-	<time>00:35</time>
-</name>
-<name id="455748" value="Риддик 3D">
-	<time>10:30</time>
-	<time>13:00</time>
-	<time>15:30</time>
-	<time>18:00</time>
-	<time>20:30</time>
-</name>
-<name id="455748" value="Джобс: Империя соблазна">
-	<time>10:10</time>
-	<time>12:40</time>
-	<time>16:15</time>
-	<time>19:00</time>
-	<time>21:35</time>
-	<time>00:10</time>
-</name>
-<name id="455748" value="Два ствола">
-	<time>12:05</time>
-	<time>20:15</time>
-</name>
-<name id="455748" value="Бойфренд из будущего">
-	<time>15:00</time>
-	<time>17:25</time>
-	<time>22:10</time>
-</name>
-<name id="455748" value="Одноклассники 2">
-	<time>18:45</time>
-	<time>21:05</time>
-	<time>23:40</time>
-</name>
-<name id="455748" value="Самолеты 3D">
-	<time>10:50</time>
-	<time>12:50</time>
-	<time>14:50</time>
-	<time>16:50</time>
-</name>
-<name id="455748" value="Майор">
-	<time>23:00</time>
-</name>
-<name id="455748" value="Смурфики 2">
-	<time>12:25</time>
-	<time>16:35</time>
-</name>
-<name id="455748" value="Турбо">
-	<time>14:00</time>
-</name>
-<name id="455748" value="Никчемный я 2">
-	<time>10:20</time>
-	<time>14:30</time>
-	<time>18:40</time>
-</name>
-<name id="455748" value="Жизнь Пи">
-	<time>20:45</time>
-	<time>23:20</time>
-</name>
-<name id="455748" value="Мы - Миллеры">
-	<time>11:40</time>
-	<time>16:10</time>
-	<time>18:30</time>
-	<time>20:50</time>
-	<time>23:10</time>
-</name>
-</film>
-<film>
-<cinema>IMAX</cinema>
-<name id="455748" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:45</time>
-	<time>20:00</time>
-	<time>22:25</time>
-</name>
-<name id="455748" value="Тихоокеанский рубеж">
-	<time>17:10</time>
-</name>
-</film>
-<film>
-<cinema>Оскар</cinema>
-<name id="456989" value="Ломбард">
-	<time>10:20</time>
-	<time>12:10</time>
-	<time>14:00</time>
-	<time>15:50</time>
-	<time>17:40</time>
-	<time>19:30</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>10:30</time>
-	<time>12:20</time>
-	<time>14:10</time>
-	<time>16:00</time>
-</name>
-<name id="456989" value="Лавлэйс">
-	<time>22:00</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>10:20</time>
-	<time>12:50</time>
-	<time>15:20</time>
-	<time>18:00</time>
-	<time>18:00</time>
-	<time>20:20</time>
-	<time>20:20</time>
-	<time>22:50</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>11:00</time>
-	<time>12:40</time>
-	<time>14:30</time>
-	<time>16:10</time>
-	<time>18:20</time>
-</name>
-<name id="456989" value="Интимные места">
-	<time>18:00</time>
-	<time>21:50</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-	<time>16:00</time>
-	<time>19:50</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>10:00</time>
-	<time>14:40</time>
-	<time>17:10</time>
-	<time>19:30</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>12:30</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>20:00</time>
-	<time>22:10</time>
-</name>
-<name id="456989" value="Мы - Миллеры">
-	<time>10:20</time>
-	<time>12:30</time>
-	<time>14:40</time>
-	<time>16:50</time>
-	<time>19:00</time>
-	<time>21:10</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-</film>
-<film>
-<cinema>Линия кино ТЦ Аладдин</cinema>
-<name id="456989" value="Ломбард">
-	<time>10:00</time>
-	<time>13:50</time>
-	<time>17:40</time>
-	<time>21:30</time>
-	<time>23:20</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>10:10</time>
-	<time>12:40</time>
-	<time>15:10</time>
-	<time>17:40</time>
-	<time>20:10</time>
-	<time>22:40</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>10:20</time>
-	<time>12:00</time>
-	<time>13:40</time>
-	<time>15:20</time>
-	<time>17:00</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>11:50</time>
-	<time>15:40</time>
-	<time>19:30</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>10:00</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>21:10</time>
-</name>
-<name id="456989" value="Мы - Миллеры">
-	<time>19:00</time>
-	<time>23:20</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>12:10</time>
-	<time>14:30</time>
-	<time>16:50</time>
-	<time>19:10</time>
-	<time>21:30</time>
-</name>
-</film>
-<film>
-<cinema>Линия кино ТЦ Магелан</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>10:10</time>
-	<time>12:40</time>
-	<time>15:10</time>
-	<time>17:40</time>
-	<time>20:10</time>
-	<time>22:40</time>
-</name>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:20</time>
-	<time>12:00</time>
-	<time>13:40</time>
-	<time>15:20</time>
-	<time>17:10</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>12:10</time>
-	<time>21:50</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>10:00</time>
-</name>
-<name id="457391" value="Одноклассники 2">
-	<time>21:10</time>
-</name>
-<name id="457391" value="Мы - Миллеры">
-	<time>19:00</time>
-	<time>23:20</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>14:30</time>
-	<time>17:00</time>
-	<time>19:30</time>
-</name>
-</film>
-<film>
-<cinema>Линия кино ТЦ Метрополис</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>10:10</time>
-	<time>12:40</time>
-	<time>15:10</time>
-	<time>17:40</time>
-	<time>20:10</time>
-	<time>22:40</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>12:10</time>
-	<time>21:50</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>10:00</time>
-</name>
-<name id="457391" value="Одноклассники 2">
-	<time>12:30</time>
-	<time>16:50</time>
-	<time>21:10</time>
-</name>
-<name id="457391" value="Мы - Миллеры">
-	<time>10:20</time>
-	<time>14:40</time>
-	<time>19:00</time>
-	<time>23:20</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>14:30</time>
-	<time>17:00</time>
-	<time>19:30</time>
-</name>
-</film>
-<film>
-<cinema>Одесса-кино в ТЦ Квадрат</cinema>
-<name id="455748" value="Запрещенная страсть">
-	<time>22:10</time>
-</name>
-<name id="455748" value="Ломбард">
-	<time>10:40</time>
-	<time>12:30</time>
-	<time>14:20</time>
-	<time>16:10</time>
-	<time>20:20</time>
-</name>
-<name id="455748" value="Джобс: Империя соблазна">
-	<time>12:15</time>
-	<time>16:55</time>
-	<time>19:15</time>
-	<time>21:35</time>
-</name>
-<name id="455748" value="Бойфренд из будущего">
-	<time>09:55</time>
-	<time>14:35</time>
-	<time>18:00</time>
-</name>
-<name id="455748" value="Два ствола">
-	<time>10:00</time>
-</name>
-<name id="455748" value="Одноклассники 2">
-	<time>10:40</time>
-	<time>12:40</time>
-	<time>14:40</time>
-	<time>16:40</time>
-	<time>18:40</time>
-	<time>20:40</time>
-	<time>22:40</time>
-</name>
-<name id="455748" value="Мы - Миллеры">
-	<time>16:50</time>
-</name>
-<name id="455748" value="Риддик 3D">
-	<time>12:10</time>
-	<time>14:30</time>
-	<time>19:00</time>
-	<time>21:20</time>
-</name>
-</film>
-<film>
-<cinema>Киев</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>12:15</time>
-	<time>16:50</time>
-	<time>19:15</time>
-</name>
-<name id="457391" value="Интимные места">
-	<time>21:30</time>
-</name>
-<name id="457391" value="Прощай, Париж">
-	<time>15:10</time>
-	<time>19:00</time>
-</name>
-<name id="457391" value="Любовь по рецепту">
-	<time>15:15</time>
-	<time>21:15</time>
-</name>
-<name id="457391" value="Камилла Клодель, 1915">
-	<time>13:30</time>
-	<time>19:30</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>10:30</time>
-	<time>12:50</time>
-</name>
-<name id="457391" value="Молода и прекрасна">
-	<time>17:10</time>
-</name>
-<name id="457391" value="Лучшее предложение">
-	<time>17:00</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>14:30</time>
-	<time>21:00</time>
-</name>
-</film>
-<film>
-<cinema>Кинопалац</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>14:10</time>
-	<time>18:50</time>
-	<time>21:10</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>11:50</time>
-	<time>16:30</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>09:50</time>
-</name>
-</film>
-<film>
-<cinema>Мультиплекс в ТРЦ Комод</cinema>
-<name id="456989" value="Ломбард">
-	<time>20:25</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>11:55</time>
-	<time>14:10</time>
-	<time>16:25</time>
-	<time>18:40</time>
-	<time>20:55</time>
-	<time>23:10</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>10:05</time>
-	<time>14:25</time>
-	<time>16:35</time>
-	<time>19:00</time>
-	<time>21:20</time>
-	<time>23:40</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>12:15</time>
-	<time>15:45</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>11:00</time>
-	<time>13:20</time>
-	<time>18:00</time>
-	<time>22:20</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>11:05</time>
-	<time>13:10</time>
-	<time>17:20</time>
-</name>
-<name id="456989" value="Самолеты 3D">
-	<time>10:00</time>
-</name>
-<name id="456989" value="Мы - Миллеры">
-	<time>15:15</time>
-	<time>19:25</time>
-	<time>21:30</time>
-	<time>23:35</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй Кантри</cinema>
-<name id="456989" value="Риддик 3D">
-	<time>11:00</time>
-	<time>13:20</time>
-	<time>15:40</time>
-	<time>18:00</time>
-	<time>20:20</time>
-	<time>22:40</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>12:10</time>
-	<time>14:30</time>
-	<time>16:50</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>19:10</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>17:20</time>
-	<time>19:20</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Самолеты 3D">
-	<time>11:50</time>
-	<time>13:40</time>
-	<time>15:30</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй Большевик</cinema>
-<name id="456948" value="Бойфренд из будущего">
-	<time>10:10</time>
-	<time>14:40</time>
-	<time>19:10</time>
-</name>
-<name id="456948" value="Мы - Миллеры">
-	<time>12:30</time>
-	<time>17:00</time>
-	<time>21:30</time>
-</name>
-<name id="456948" value="Одноклассники 2">
-	<time>15:30</time>
-	<time>19:40</time>
-</name>
-<name id="456948" value="Самолеты 3D">
-	<time>10:00</time>
-	<time>11:50</time>
-	<time>13:40</time>
-</name>
-<name id="456948" value="Два ствола">
-	<time>17:30</time>
-	<time>21:40</time>
-</name>
-<name id="456948" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-<name id="456948" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй Ультрамарин</cinema>
-<name id="456948" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-<name id="456948" value="Самолеты 3D">
-	<time>10:10</time>
-	<time>12:00</time>
-</name>
-<name id="456948" value="Два ствола">
-	<time>13:50</time>
-	<time>16:00</time>
-	<time>18:10</time>
-	<time>20:20</time>
-	<time>22:30</time>
-</name>
-<name id="456948" value="Бойфренд из будущего">
-	<time>11:00</time>
-	<time>13:20</time>
-	<time>15:40</time>
-	<time>18:00</time>
-</name>
-<name id="456948" value="Запрещенная страсть">
-	<time>20:20</time>
-	<time>22:25</time>
-</name>
-<name id="456948" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-<name id="456948" value="Мы - Миллеры">
-	<time>10:00</time>
-	<time>12:10</time>
-	<time>14:20</time>
-	<time>16:30</time>
-	<time>18:40</time>
-	<time>20:50</time>
-	<time>22:55</time>
-</name>
-<name id="456948" value="Одноклассники 2">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-	<time>16:00</time>
-	<time>18:00</time>
-	<time>20:00</time>
-	<time>22:00</time>
-</name>
-</film>
-<film>
-<cinema>Баттерфляй DeLuxe</cinema>
-<name id="456948" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:40</time>
-</name>
-<name id="456948" value="Бойфренд из будущего">
-	<time>10:00</time>
-	<time>14:30</time>
-	<time>19:00</time>
-</name>
-<name id="456948" value="Два ствола">
-	<time>12:20</time>
-	<time>16:50</time>
-	<time>21:20</time>
-</name>
-<name id="456948" value="Джобс: Империя соблазна">
-	<time>10:00</time>
-	<time>12:35</time>
-	<time>15:10</time>
-	<time>17:45</time>
-	<time>20:20</time>
-	<time>22:55</time>
-</name>
-</film>
-<film>
-<cinema>Украина</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>11:00</time>
-	<time>13:30</time>
-	<time>16:00</time>
-	<time>18:30</time>
-	<time>21:00</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>14:20</time>
-	<time>16:50</time>
-	<time>19:10</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>10:00</time>
-	<time>21:30</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>12:10</time>
-</name>
-</film>
-<film>
-<cinema>Спутник</cinema>
-<name id="456989" value="Ломбард">
-	<time>10:00</time>
-	<time>11:45</time>
-	<time>12:40</time>
-	<time>15:25</time>
-	<time>19:00</time>
-	<time>22:35</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>09:45</time>
-	<time>13:30</time>
-	<time>17:10</time>
-	<time>21:00</time>
-	<time>22:50</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>12:10</time>
-	<time>14:10</time>
-	<time>16:20</time>
-	<time>18:50</time>
-	<time>20:30</time>
-	<time>22:45</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>11:30</time>
-	<time>15:20</time>
-	<time>19:00</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>09:40</time>
-	<time>14:35</time>
-	<time>21:00</time>
-	<time>23:20</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>10:30</time>
-	<time>16:50</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>10:10</time>
-	<time>13:30</time>
-	<time>14:35</time>
-	<time>17:10</time>
-	<time>18:40</time>
-	<time>20:45</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>12:00</time>
-	<time>16:30</time>
-	<time>18:50</time>
-	<time>21:15</time>
-	<time>23:30</time>
-</name>
-</film>
-<film>
-<cinema>Жовтень</cinema>
-<name id="456989" value="Ломбард">
-	<time>11:20</time>
-	<time>15:20</time>
-	<time>21:35</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>13:30</time>
-	<time>17:25</time>
-</name>
-<name id="456989" value="FUTURE SHORTS - БАРХАТНЫЙ СЕЗОН-2013">
-	<time>15:00</time>
-	<time>21:35</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>14:30</time>
-	<time>18:00</time>
-	<time>21:30</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>13:05</time>
-	<time>17:05</time>
-	<time>19:20</time>
-</name>
-<name id="456989" value="Джобс: Империя соблазна">
-	<time>11:55</time>
-	<time>14:15</time>
-	<time>16:35</time>
-	<time>18:55</time>
-	<time>21:15</time>
-</name>
-<name id="456989" value="Фрэнсис Ха">
-	<time>13:00</time>
-	<time>20:05</time>
-</name>
-<name id="456989" value="Лучшее предложение">
-	<time>15:10</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Молода и прекрасна">
-	<time>16:20</time>
-	<time>19:50</time>
-</name>
-<name id="456989" value="Пена дней">
-	<time>19:05</time>
-</name>
-<name id="456989" value="Камилла Клодель, 1915">
-	<time>13:15</time>
-	<time>16:35</time>
-	<time>18:20</time>
-</name>
-</film>
-<film>
-<cinema>Кинопанорама</cinema>
-<name id="458605" value="Молода и прекрасна">
-	<time>17:20</time>
-	<time>19:00</time>
-</name>
-<name id="458605" value="Прощай, Париж">
-	<time>12:20</time>
-	<time>14:00</time>
-	<time>15:40</time>
-	<time>20:40</time>
-</name>
-<name id="458605" value="Молода и прекрасна">
-	<time>21:00</time>
-	<time>23:00</time>
-</name>
-<name id="458605" value="Фрэнсис Ха">
-	<time>13:00</time>
-	<time>17:00</time>
-</name>
-<name id="458605" value="Камилла Клодель, 1915">
-	<time>11:00</time>
-	<time>15:00</time>
-	<time>19:00</time>
-</name>
-</film>
-<film>
-<cinema>Лейпциг</cinema>
-<name id="476047" value="Всё включено. Каникулы в Греции">
-	<time>10:00</time>
-	<time>14:00</time>
-	<time>18:10</time>
-	<time>19:50</time>
-</name>
-<name id="476047" value="Бойфренд из будущего">
-	<time>12:20</time>
-	<time>17:00</time>
-	<time>21:40</time>
-</name>
-<name id="476047" value="Два ствола">
-	<time>10:00</time>
-	<time>14:40</time>
-</name>
-<name id="476047" value="Лучшее предложение">
-	<time>11:40</time>
-	<time>15:50</time>
-	<time>19:20</time>
-	<time>21:30</time>
-</name>
-</film>
-<film>
-<cinema>Ленинград</cinema>
-<name id="456989" value="Ломбард">
-	<time>11:55</time>
-	<time>13:50</time>
-	<time>15:50</time>
-	<time>17:50</time>
-	<time>19:50</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>11:30</time>
-	<time>14:40</time>
-	<time>19:40</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>13:10</time>
-	<time>18:10</time>
-</name>
-<name id="456989" value="Прощай, Париж">
-	<time>16:20</time>
-	<time>21:20</time>
-</name>
-<name id="456989" value="Бойфренд из будущего">
-	<time>10:00</time>
-	<time>12:25</time>
-	<time>17:00</time>
-	<time>21:30</time>
-</name>
-<name id="456989" value="Два ствола">
-	<time>14:50</time>
-	<time>19:30</time>
-</name>
-<name id="456989" value="Одноклассники 2">
-	<time>10:00</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>21:50</time>
-</name>
-</film>
-<film>
-<cinema>Флоренция</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>21:40</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>12:20</time>
-	<time>17:00</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>10:00</time>
-	<time>14:40</time>
-	<time>19:20</time>
-</name>
-<name id="457391" value="Интимные места">
-	<time>23:30</time>
-</name>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>12:05</time>
-	<time>14:25</time>
-</name>
-<name id="457391" value="Бойфренд из будущего">
-	<time>16:45</time>
-	<time>19:05</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>10:00</time>
-	<time>21:25</time>
-</name>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>16:00</time>
-</name>
-<name id="457391" value="Ломбард">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-	<time>20:40</time>
-	<time>22:40</time>
-</name>
-<name id="457391" value="Риддик 3D">
-	<time>18:20</time>
-</name>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>13:05</time>
-	<time>16:10</time>
-	<time>21:05</time>
-</name>
-<name id="457391" value="Всё включено. Каникулы в Греции">
-	<time>11:25</time>
-	<time>14:30</time>
-	<time>19:25</time>
-</name>
-<name id="457391" value="Прощай, Париж">
-	<time>17:35</time>
-	<time>22:30</time>
-</name>
-</film>
-<film>
-<cinema>Факел</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>12:00</time>
-</name>
-<name id="457391" value="Ломбард">
-	<time>16:00</time>
-	<time>18:00</time>
-	<time>20:00</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>14:00</time>
-</name>
-</film>
-<film>
-<cinema>Старт</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>11:30</time>
-</name>
-<name id="457391" value="Тихоокеанский рубеж">
-	<time>19:50</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>13:00</time>
-	<time>14:30</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>16:00</time>
-	<time>18:00</time>
-</name>
-</film>
-<film>
-<cinema>Салют</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>16:00</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>12:00</time>
-	<time>14:00</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>18:00</time>
-	<time>20:00</time>
-</name>
-</film>
-<film>
-<cinema>Проминь</cinema>
-<name id="181258" value="Тихоокеанский рубеж">
-	<time>13:50</time>
-	<time>17:50</time>
-</name>
-<name id="181258" value="Никчемный я 2">
-	<time>10:00</time>
-	<time>12:00</time>
-</name>
-<name id="181258" value="Элизиум">
-	<time>16:00</time>
-	<time>20:00</time>
-</name>
-</film>
-<film>
-<cinema>Кинодром</cinema>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>22:20</time>
-</name>
-<name id="457391" value="Два ствола">
-	<time>20:40</time>
-</name>
-</film>
-<film>
-<cinema>Кадр</cinema>
-<name id="457391" value="Смурфики 2">
-	<time>12:20</time>
-	<time>17:30</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>09:00</time>
-	<time>14:10</time>
-	<time>19:10</time>
-</name>
-<name id="457391" value="Никчемный я 2">
-	<time>10:40</time>
-	<time>15:50</time>
-</name>
-</film>
-<film>
-<cinema>им. Чапаева</cinema>
-<name id="457391" value="Cпасти землю 3D">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>14:00</time>
-</name>
-</film>
-<film>
-<cinema>Алмаз</cinema>
-<name id="457391" value="Смурфики 2">
-	<time>14:20</time>
-	<time>16:20</time>
-</name>
-<name id="457391" value="Турбо">
-	<time>10:30</time>
-	<time>12:30</time>
-</name>
-<name id="457391" value="Элизиум">
-	<time>18:30</time>
-	<time>20:20</time>
-</name>
-</film>
-<film>
-<cinema>Магнат</cinema>
-<name id="456989" value="Ломбард">
-	<time>11:35</time>
-	<time>19:00</time>
-</name>
-<name id="456989" value="Самолеты 3D">
-	<time>10:00</time>
-</name>
-<name id="456989" value="Риддик 3D">
-	<time>16:55</time>
-	<time>22:30</time>
-</name>
-<name id="456989" value="Перси Джексон: Море чудовищ">
-	<time>15:00</time>
-	<time>20:35</time>
-</name>
-<name id="456989" value="Никчемный я 2">
-	<time>13:10</time>
-</name>
-<name id="456989" value="Cпасти землю 3D">
-	<time>10:10</time>
-	<time>13:05</time>
-	<time>16:00</time>
-</name>
-<name id="456989" value="Всё включено. Каникулы в Греции">
-	<time>11:35</time>
-	<time>14:30</time>
-	<time>22:15</time>
-</name>
-<name id="456989" value="Великий Гэтсби">
-	<time>17:25</time>
-	<time>19:50</time>
-</name>
-</film>
-<film>
-<cinema>Синема-Сити</cinema>
-<name id="455748" value="Запрещенная страсть">
-	<time>10:05</time>
-	<time>12:15</time>
-	<time>14:30</time>
-	<time>16:40</time>
-	<time>21:10</time>
-</name>
-<name id="455748" value="Ломбард">
-	<time>10:00</time>
-	<time>11:50</time>
-	<time>13:40</time>
-	<time>15:40</time>
-	<time>19:40</time>
-	<time>21:30</time>
-</name>
-<name id="455748" value="Всё включено. Каникулы в Греции">
-	<time>10:00</time>
-	<time>12:00</time>
-	<time>16:00</time>
-	<time>22:00</time>
-	<time>23:50</time>
-</name>
-<name id="455748" value="Прощай, Париж">
-	<time>12:50</time>
-	<time>17:20</time>
-</name>
-<name id="455748" value="Cпасти землю 3D">
-	<time>11:00</time>
-	<time>14:45</time>
-</name>
-<name id="455748" value="Интимные места">
-	<time>21:55</time>
-	<time>23:50</time>
-</name>
-<name id="455748" value="Риддик 3D">
-	<time>10:00</time>
-	<time>12:20</time>
-	<time>14:40</time>
-	<time>17:00</time>
-	<time>19:20</time>
-	<time>21:00</time>
-	<time>23:55</time>
-</name>
-<name id="455748" value="Джобс: Империя соблазна">
-	<time>10:50</time>
-	<time>13:20</time>
-	<time>15:50</time>
-	<time>18:20</time>
-	<time>18:40</time>
-	<time>19:30</time>
-	<time>20:50</time>
-	<time>21:40</time>
-	<time>23:15</time>
-</name>
-<name id="455748" value="Два ствола">
-	<time>10:40</time>
-	<time>18:00</time>
-</name>
-<name id="455748" value="Бойфренд из будущего">
-	<time>10:30</time>
-	<time>13:00</time>
-	<time>15:30</time>
-	<time>20:30</time>
-	<time>23:05</time>
-</name>
-<name id="455748" value="Орудия смерти: Город костей">
-	<time>14:50</time>
-</name>
-<name id="455748" value="Одноклассники 2">
-	<time>14:00</time>
-	<time>17:50</time>
-</name>
-<name id="455748" value="Самолеты 3D">
-	<time>12:40</time>
-</name>
-<name id="455748" value="Перси Джексон: Море чудовищ">
-	<time>16:30</time>
-	<time>23:25</time>
-</name>
-<name id="455748" value="Майор">
-	<time>23:20</time>
-</name>
-<name id="455748" value="Мы - Миллеры">
-	<time>17:30</time>
-</name>
-</film>
-</date><date value="2013-09-26">
-<film>
-<cinema>Киев</cinema>
-<name id="457391" value="Манхэттанский фестиваль короткометражных фильмов 2013">
-	<time>16:00</time>
-	<time>19:45</time>
-</name>
-<name id="457391" value="Околофутбола">
-	<time>21:00</time>
-</name>
-<name id="457391" value="Привычка расставаться">
-	<time>13:20</time>
-	<time>19:30</time>
-</name>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>11:00</time>
-	<time>15:10</time>
-	<time>21:15</time>
-</name>
-<name id="457391" value="Я хочу как Бриджет">
-	<time>14:20</time>
-	<time>21:40</time>
-</name>
-<name id="457391" value="Голубоглазая Жасмин">
-	<time>11:10</time>
-	<time>15:00</time>
-	<time>17:00</time>
-	<time>19:00</time>
-</name>
-<name id="457391" value="Прощай, Париж">
-	<time>13:00</time>
-	<time>17:30</time>
-</name>
-<name id="457391" value="Любовь по рецепту">
-	<time>18:00</time>
-</name>
-</film>
-<film>
-<cinema>Кинопанорама</cinema>
-<name id="458605" value="Молода и прекрасна">
-	<time>17:20</time>
-	<time>19:00</time>
-</name>
-<name id="458605" value="Прощай, Париж">
-	<time>12:20</time>
-	<time>14:00</time>
-	<time>15:40</time>
-	<time>20:40</time>
-</name>
-<name id="458605" value="Молода и прекрасна">
-	<time>21:00</time>
-	<time>23:00</time>
-</name>
-<name id="458605" value="Фрэнсис Ха">
-	<time>13:00</time>
-	<time>17:00</time>
-</name>
-<name id="458605" value="Камилла Клодель, 1915">
-	<time>11:00</time>
-	<time>15:00</time>
-	<time>19:00</time>
-</name>
-</film>
-<film>
-<cinema>Кадр</cinema>
-<name id="458605" value="Смурфики 2">
-	<time>12:20</time>
-	<time>17:30</time>
-</name>
-<name id="458605" value="Турбо">
-	<time>09:00</time>
-	<time>14:10</time>
-	<time>19:10</time>
-</name>
-<name id="458605" value="Никчемный я 2">
-	<time>10:40</time>
-	<time>15:50</time>
-</name>
-</film>
-<film>
-<cinema>Алмаз</cinema>
-<name id="458605" value="Смурфики 2">
-	<time>14:20</time>
-	<time>16:20</time>
-</name>
-<name id="458605" value="Турбо">
-	<time>10:30</time>
-	<time>12:30</time>
-</name>
-<name id="458605" value="Элизиум">
-	<time>21:10</time>
-</name>
-</film>
-</date><date value="2013-09-27">
-<film>
-<cinema>Кинопанорама</cinema>
-<name id="458605" value="Молода и прекрасна">
-	<time>17:00</time>
-</name>
-<name id="458605" value="Прощай, Париж">
-	<time>12:00</time>
-	<time>13:40</time>
-	<time>15:20</time>
-</name>
-</film>
-</date><date value="2013-09-28">
-<film>
-<cinema>Киев</cinema>
-<name id="457391" value="Манхэттанский фестиваль короткометражных фильмов 2013">
-	<time>16:00</time>
-	<time>19:45</time>
-</name>
-<name id="457391" value="Околофутбола">
-	<time>21:00</time>
-</name>
-<name id="457391" value="Привычка расставаться">
-	<time>13:20</time>
-	<time>19:30</time>
-</name>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>11:00</time>
-	<time>15:10</time>
-	<time>21:15</time>
-</name>
-<name id="457391" value="Я хочу как Бриджет">
-	<time>14:20</time>
-	<time>21:40</time>
-</name>
-<name id="457391" value="Голубоглазая Жасмин">
-	<time>11:10</time>
-	<time>15:00</time>
-	<time>17:00</time>
-	<time>19:00</time>
-</name>
-<name id="457391" value="Прощай, Париж">
-	<time>13:00</time>
-	<time>17:30</time>
-</name>
-<name id="457391" value="Любовь по рецепту">
-	<time>18:00</time>
-</name>
-</film>
-<film>
-<cinema>Кинопанорама</cinema>
-<name id="458605" value="Молода и прекрасна">
-	<time>17:20</time>
-	<time>19:00</time>
-</name>
-<name id="458605" value="Прощай, Париж">
-	<time>12:20</time>
-	<time>14:00</time>
-	<time>15:40</time>
-	<time>20:40</time>
-</name>
-</film>
-</date><date value="2013-09-29">
-<film>
-<cinema>Киев</cinema>
-<name id="457391" value="Манхэттанский фестиваль короткометражных фильмов 2013">
-	<time>16:00</time>
-	<time>19:45</time>
-</name>
-<name id="457391" value="Околофутбола">
-	<time>21:00</time>
-</name>
-<name id="457391" value="Привычка расставаться">
-	<time>13:20</time>
-	<time>19:30</time>
-</name>
-<name id="457391" value="Джобс: Империя соблазна">
-	<time>11:00</time>
-	<time>15:10</time>
-	<time>21:15</time>
-</name>
-<name id="457391" value="Я хочу как Бриджет">
-	<time>14:20</time>
-	<time>21:40</time>
-</name>
-<name id="457391" value="Голубоглазая Жасмин">
-	<time>11:10</time>
-	<time>15:00</time>
-	<time>17:00</time>
-	<time>19:00</time>
-</name>
-<name id="457391" value="Прощай, Париж">
-	<time>13:00</time>
-	<time>17:30</time>
-</name>
-<name id="457391" value="Любовь по рецепту">
-	<time>18:00</time>
-</name>
-</film>
-<film>
-<cinema>Кинопанорама</cinema>
-<name id="458605" value="Молода и прекрасна">
-	<time>17:20</time>
-	<time>19:00</time>
-</name>
-<name id="458605" value="Прощай, Париж">
-	<time>12:20</time>
-	<time>14:00</time>
-	<time>15:40</time>
-	<time>20:40</time>
-</name>
-</film>
-</date></data>
+<date value="2013-10-13">
+<film value="Сталинград">
+<film value="Всё включено 2">
+<film value="Metallica: Сквозь невозможное">
+<film value="Пленницы">
+<film value="Ломбард">
+<film value="Всё включено. Каникулы в Греции">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Самолеты 3D">
+<film value="Параджанов">
+<film value="Страсти Дон Жуана">
+<film value="Смурфики 2">
+<film value="Турбо">
+<film value="Никчемный я 2">
+<film value="Мы - Миллеры">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Metallica: Сквозь невозможное">
+<film value="Всё включено 2">
+<film value="Ломбард">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Джобс: Империя соблазна">
+<film value="Cпасти землю 3D">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Пленницы">
+<film value="Философы">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Пленницы">
+<film value="Философы">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Гравитация">
+<film value="Хорошие дети не плачут (Дни кино Голландии)">
+<film value="Лоре (Новое немецкое кино 2013)">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Вечное возвращение">
+<film value="Манхэттанский фестиваль короткометражных фильмов 2013">
+<film value="Хочу как Бриджет ">
+<film value="Жасмин">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Иван Сила">
+<film value="Всё включено 2">
+<film value="Metallica: Сквозь невозможное">
+<film value="Пленницы">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Бойфренд из будущего">
+<film value="Самолеты 3D">
+<film value="Никчемный я 2">
+<film value="Великий Гэтсби">
+<film value="Мы - Миллеры">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Всё включено 2">
+<film value="Пленницы">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Самолеты 3D">
+<film value="Мы - Миллеры">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Страсти Дон Жуана">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Всё включено 2">
+<film value="Гравитация">
+<film value="Всё включено 2">
+<film value="Пленницы">
+<film value="Философы">
+<film value="Убойный уикенд">
+<film value="Гравитация">
+<film value="Джобс: Империя соблазна">
+<film value="Страсти Дон Жуана">
+<film value="Слепая удача">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Хочу как Бриджет ">
+<film value="Параджанов">
+<film value="Вечное возвращение">
+<film value="Камилла Клодель, 1915">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Джобс: Империя соблазна">
+<film value="Параджанов">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Гравитация">
+<film value="Дом забытых вещей">
+<film value="Убойный уикенд">
+<film value="Эпидемия">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Около футбола">
+<film value="Гравитация">
+<film value="Дом забытых вещей">
+<film value="Пленницы">
+<film value="Убойный уикенд">
+<film value="Эпидемия">
+<film value="Всё включено 2">
+<film value="Ломбард">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Около футбола">
+<film value="Cпасти землю 3D">
+<film value="Гравитация">
+<film value="Монстры на острове 3D">
+<film value="Слепая удача">
+<film value="Самолеты 3D">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Самолеты 3D">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Монстры на острове 3D">
+<film value="Иван Сила">
+<film value="Самолеты 3D">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Cпасти землю 3D">
+<film value="Смурфики 2">
+<film value="Самолеты 3D">
+<film value="Cпасти землю 3D">
+<film value="Иван Сила">
+<film value="Одноклассники 2">
+<film value="Любовь по рецепту">
+<film value="Metallica: Сквозь невозможное">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Уличные танцы 3: Все звезды">
+<film value="Параджанов">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Дом забытых вещей">
+<film value="Калуокахина">
+<film value="Владения света">
+<film value="Как Месяц в гости к Солнцу ходил">
+<film value="Эволюция жизни">
+<film value="Убойный уикенд">
+<film value="Сталинград">
+<film value="Эпидемия">
+<film value="Иван Сила">
+<film value="Всё включено 2">
+<film value="Metallica: Сквозь невозможное">
+<film value="Пленницы">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Бойфренд из будущего">
+<film value="Перси Джексон: Море чудовищ">
+<film value="Дом забытых вещей">
+<film value="Параджанов">
+<film value="Страсти Дон Жуана">
+<film value="Вечное возвращение">
+<film value="Гравитация">
+<date value="2013-10-14">
+<film value="Сталинград">
+<film value="Всё включено 2">
+<film value="Metallica: Сквозь невозможное">
+<film value="Пленницы">
+<film value="Ломбард">
+<film value="Всё включено. Каникулы в Греции">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Самолеты 3D">
+<film value="Параджанов">
+<film value="Страсти Дон Жуана">
+<film value="Смурфики 2">
+<film value="Турбо">
+<film value="Никчемный я 2">
+<film value="Мы - Миллеры">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Metallica: Сквозь невозможное">
+<film value="Всё включено 2">
+<film value="Ломбард">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Джобс: Империя соблазна">
+<film value="Cпасти землю 3D">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Ханна Арендт (Новое немецкое кино 2013)">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Вечное возвращение">
+<film value="Манхэттанский фестиваль короткометражных фильмов 2013">
+<film value="Хочу как Бриджет ">
+<film value="Жасмин">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Иван Сила">
+<film value="Всё включено 2">
+<film value="Metallica: Сквозь невозможное">
+<film value="Пленницы">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Бойфренд из будущего">
+<film value="Самолеты 3D">
+<film value="Никчемный я 2">
+<film value="Великий Гэтсби">
+<film value="Мы - Миллеры">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Всё включено 2">
+<film value="Пленницы">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Самолеты 3D">
+<film value="Мы - Миллеры">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Страсти Дон Жуана">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Всё включено 2">
+<film value="Гравитация">
+<film value="Всё включено 2">
+<film value="Пленницы">
+<film value="Философы">
+<film value="Убойный уикенд">
+<film value="Гравитация">
+<film value="Джобс: Империя соблазна">
+<film value="Страсти Дон Жуана">
+<film value="Слепая удача">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="6 Дитячий МКФ "Крила"">
+<film value="Сталинград">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Французький кіноклуб">
+<film value="Хочу как Бриджет ">
+<film value="Параджанов">
+<film value="Вечное возвращение">
+<film value="Камилла Клодель, 1915">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Джобс: Империя соблазна">
+<film value="Параджанов">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Гравитация">
+<film value="Дом забытых вещей">
+<film value="Убойный уикенд">
+<film value="Эпидемия">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Около футбола">
+<film value="Гравитация">
+<film value="Дом забытых вещей">
+<film value="Пленницы">
+<film value="Убойный уикенд">
+<film value="Эпидемия">
+<film value="Всё включено 2">
+<film value="Ломбард">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Около футбола">
+<film value="Cпасти землю 3D">
+<film value="Гравитация">
+<film value="Монстры на острове 3D">
+<film value="Слепая удача">
+<film value="Самолеты 3D">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Самолеты 3D">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Монстры на острове 3D">
+<film value="Иван Сила">
+<film value="Самолеты 3D">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Cпасти землю 3D">
+<film value="Смурфики 2">
+<film value="Самолеты 3D">
+<film value="Параджанов">
+<film value="Три песни о Ленине">
+<film value="Сказка про влюбленного маляра">
+<film value="Cпасти землю 3D">
+<film value="Иван Сила">
+<film value="Одноклассники 2">
+<film value="Любовь по рецепту">
+<film value="Metallica: Сквозь невозможное">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Уличные танцы 3: Все звезды">
+<film value="Параджанов">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Дом забытых вещей">
+<film value="Владения света">
+<film value="Воздушные призраки">
+<film value="Легенди про звезды">
+<film value="Эволюция жизни">
+<film value="Убойный уикенд">
+<film value="Сталинград">
+<film value="Эпидемия">
+<film value="Иван Сила">
+<film value="Всё включено 2">
+<film value="Metallica: Сквозь невозможное">
+<film value="Пленницы">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Бойфренд из будущего">
+<film value="Перси Джексон: Море чудовищ">
+<film value="Дом забытых вещей">
+<film value="Параджанов">
+<film value="Страсти Дон Жуана">
+<film value="Вечное возвращение">
+<film value="Гравитация">
+<date value="2013-10-15">
+<film value="Сталинград">
+<film value="Всё включено 2">
+<film value="Metallica: Сквозь невозможное">
+<film value="Пленницы">
+<film value="Ломбард">
+<film value="Всё включено. Каникулы в Греции">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Самолеты 3D">
+<film value="Параджанов">
+<film value="Страсти Дон Жуана">
+<film value="Смурфики 2">
+<film value="Турбо">
+<film value="Никчемный я 2">
+<film value="Мы - Миллеры">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Metallica: Сквозь невозможное">
+<film value="Всё включено 2">
+<film value="Ломбард">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Джобс: Империя соблазна">
+<film value="Cпасти землю 3D">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Мост через Ибар (Новое немецкое кино 2013)">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Вечное возвращение">
+<film value="Манхэттанский фестиваль короткометражных фильмов 2013">
+<film value="Хочу как Бриджет ">
+<film value="Жасмин">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Страсти Дон Жуана">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Всё включено 2">
+<film value="Гравитация">
+<film value="Всё включено 2">
+<film value="Пленницы">
+<film value="Философы">
+<film value="Убойный уикенд">
+<film value="Гравитация">
+<film value="Джобс: Империя соблазна">
+<film value="Страсти Дон Жуана">
+<film value="Слепая удача">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="6 Дитячий МКФ "Крила"">
+<film value="Сталинград">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Хочу как Бриджет ">
+<film value="Параджанов">
+<film value="Вечное возвращение">
+<film value="Камилла Клодель, 1915">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Джобс: Империя соблазна">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Гравитация">
+<film value="Дом забытых вещей">
+<film value="Убойный уикенд">
+<film value="Эпидемия">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Около футбола">
+<film value="Гравитация">
+<film value="Дом забытых вещей">
+<film value="Пленницы">
+<film value="Убойный уикенд">
+<film value="Эпидемия">
+<film value="Всё включено 2">
+<film value="Ломбард">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Около футбола">
+<film value="Cпасти землю 3D">
+<film value="Гравитация">
+<film value="Монстры на острове 3D">
+<film value="Слепая удача">
+<film value="Самолеты 3D">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Самолеты 3D">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Монстры на острове 3D">
+<film value="Иван Сила">
+<film value="Самолеты 3D">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Cпасти землю 3D">
+<film value="Смурфики 2">
+<film value="Самолеты 3D">
+<film value="Параджанов">
+<film value="Сказка про влюбленного маляра">
+<film value="Cпасти землю 3D">
+<film value="Иван Сила">
+<film value="Одноклассники 2">
+<film value="Любовь по рецепту">
+<film value="Metallica: Сквозь невозможное">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Уличные танцы 3: Все звезды">
+<film value="Параджанов">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Дом забытых вещей">
+<film value="Калуокахина">
+<film value="Владения света">
+<film value="Астронавт">
+<film value="Воздушные призраки">
+<film value="Убойный уикенд">
+<film value="Сталинград">
+<film value="Эпидемия">
+<film value="Иван Сила">
+<film value="Всё включено 2">
+<film value="Metallica: Сквозь невозможное">
+<film value="Пленницы">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Бойфренд из будущего">
+<film value="Перси Джексон: Море чудовищ">
+<film value="Дом забытых вещей">
+<film value="Параджанов">
+<film value="Страсти Дон Жуана">
+<film value="Вечное возвращение">
+<film value="Гравитация">
+<date value="2013-10-16">
+<film value="Сталинград">
+<film value="Всё включено 2">
+<film value="Metallica: Сквозь невозможное">
+<film value="Пленницы">
+<film value="Ломбард">
+<film value="Всё включено. Каникулы в Греции">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Самолеты 3D">
+<film value="Параджанов">
+<film value="Страсти Дон Жуана">
+<film value="Смурфики 2">
+<film value="Турбо">
+<film value="Никчемный я 2">
+<film value="Мы - Миллеры">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Metallica: Сквозь невозможное">
+<film value="Всё включено 2">
+<film value="Ломбард">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Джобс: Империя соблазна">
+<film value="Cпасти землю 3D">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="Простые сложности Нико Фишера (Новое немецкое кино 2013)">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Вечное возвращение">
+<film value="Манхэттанский фестиваль короткометражных фильмов 2013">
+<film value="Хочу как Бриджет ">
+<film value="Жасмин">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Страсти Дон Жуана">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Всё включено 2">
+<film value="Гравитация">
+<film value="Всё включено 2">
+<film value="Пленницы">
+<film value="Философы">
+<film value="Убойный уикенд">
+<film value="Гравитация">
+<film value="Джобс: Империя соблазна">
+<film value="Страсти Дон Жуана">
+<film value="Слепая удача">
+<film value="Сталинград">
+<film value="Пленницы">
+<film value="Слепая удача">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Пленницы">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Страсти Дон Жуана">
+<film value="Около футбола">
+<film value="Джобс: Империя соблазна">
+<film value="Гравитация">
+<film value="6 Дитячий МКФ "Крила"">
+<film value="Сталинград">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Хочу как Бриджет ">
+<film value="Параджанов">
+<film value="Вечное возвращение">
+<film value="Камилла Клодель, 1915">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Джобс: Империя соблазна">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Гравитация">
+<film value="Дом забытых вещей">
+<film value="Убойный уикенд">
+<film value="Эпидемия">
+<film value="Всё включено 2">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Около футбола">
+<film value="Гравитация">
+<film value="Дом забытых вещей">
+<film value="Пленницы">
+<film value="Убойный уикенд">
+<film value="Эпидемия">
+<film value="Всё включено 2">
+<film value="Ломбард">
+<film value="Сталинград">
+<film value="Слепая удача">
+<film value="Около футбола">
+<film value="Cпасти землю 3D">
+<film value="Гравитация">
+<film value="Монстры на острове 3D">
+<film value="Слепая удача">
+<film value="Самолеты 3D">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Самолеты 3D">
+<film value="Иван Сила">
+<film value="Любовь по рецепту">
+<film value="Монстры на острове 3D">
+<film value="Иван Сила">
+<film value="Самолеты 3D">
+<film value="Малавита">
+<film value="Философы">
+<film value="Гравитация">
+<film value="Cпасти землю 3D">
+<film value="Смурфики 2">
+<film value="Самолеты 3D">
+<film value="Параджанов">
+<film value="Сказка про влюбленного маляра">
+<film value="Cпасти землю 3D">
+<film value="Иван Сила">
+<film value="Одноклассники 2">
+<film value="Любовь по рецепту">
+<film value="Metallica: Сквозь невозможное">
+<film value="Гравитация">
+<film value="Сталинград">
+<film value="Уличные танцы 3: Все звезды">
+<film value="Параджанов">
+<film value="Иван Сила">
+<film value="Убойный уикенд">
+<film value="Дом забытых вещей">
+<film value="Владения света">
+<film value="Астронавт">
+<film value="Как Месяц в гости к Солнцу ходил">
+<film value="Воздушные призраки">
+<film value="Эволюция жизни">
+<film value="Убойный уикенд">
+<film value="Сталинград">
+<film value="Эпидемия">
+<film value="Иван Сила">
+<film value="Всё включено 2">
+<film value="Metallica: Сквозь невозможное">
+<film value="Пленницы">
+<film value="Около футбола">
+<film value="Привычка расставаться">
+<film value="Слепая удача">
+<film value="Риддик 3D">
+<film value="Философы">
+<film value="Джобс: Империя соблазна">
+<film value="Бойфренд из будущего">
+<film value="Перси Джексон: Море чудовищ">
+<film value="Дом забытых вещей">
+<film value="Параджанов">
+<film value="Страсти Дон Жуана">
+<film value="Вечное возвращение">
+<film value="Гравитация">
+<date value="2013-10-17">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Вечное возвращение">
+<film value="Манхэттанский фестиваль короткометражных фильмов 2013">
+<film value="Хочу как Бриджет ">
+<film value="Жасмин">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Джобс: Империя соблазна">
+<film value="Гонка">
+<film value="Cпасти землю 3D">
+<film value="Смурфики 2">
+<film value="Самолеты 3D">
+<film value="Cпасти землю 3D">
+<film value="Иван Сила">
+<film value="Одноклассники 2">
+<film value="Любовь по рецепту">
+<film value="Владения света">
+<film value="Воздушные призраки">
+<film value="Легенди про звезды">
+<film value="Эволюция жизни">
+<date value="2013-10-18">
+<film value="Философы">
+<film value="Параджанов">
+<film value="Вечное возвращение">
+<film value="Манхэттанский фестиваль короткометражных фильмов 2013">
+<film value="Хочу как Бриджет ">
+<film value="Жасмин">
+<film value="Гравитация">
+<film value="Иван Сила">
+<film value="Джобс: Империя соблазна">
+<film value="Малавита">
+<film value="Гонка">
+<film value="Калуокахина">
+<film value="Владения света">
+<film value="Астронавт">
+<film value="Астрономия (10 шагов сквозь небо)">
+<film value="Воздушные призраки">
+<film value="Эволюция жизни">
+<date value="2013-10-19">
+<film value="Калуокахина">
+<film value="Владения света">
+<film value="Астронавт">
+<film value="Как Месяц в гости к Солнцу ходил">
+</data>
